@@ -45,19 +45,12 @@ open(my $ofh, ">$outfile") || die "can't open $outfile for writing";
 select($ofh);
 
 my %sheet = readDat($infile);
-# printHash($sheet{"map"});
 
 my @problems = ();
 for my $problem (@{$sheet{"list"}})
 {
-	# print("Problem $problem:\n");
 	my %p = readDat("Aufgaben/" . $problem . ".dat");
 	push @problems, \%p;
-	# printHash($p{"map"});
-	# for my $l (@{$p{"list"}})
-	# {
-	#	print(" exercise: $l\n");
-	# }
 }
 
 # %sheet contains the meta data
@@ -72,7 +65,6 @@ while(<$tfh>)
 		my $token = $1;
 		if($token eq "Problems")
 		{
-			# print("Here are the problems\n");
 			for my $pref (@problems)
 			{
 				my %phash = %{$pref};
@@ -115,17 +107,3 @@ while(<$tfh>)
 }
 
 close($tfh);
-
-
-## 
-## open(G, "problem.tex") || die "no problem template";
-## 
-## {
-## 	}
-## 			
-## 		## now create a problem from the problem template and
-## 		## push it to problems
-## 	}
-## }
-## 
-## ## now create a 
