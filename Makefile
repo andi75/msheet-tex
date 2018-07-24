@@ -3,33 +3,22 @@ BIB = bibtex
 GS = gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite 
 DAT2TEX = perl mktex.pl
 
-PAPER = uebung
-PAPER-L = uebung-l
+BASE = mktex.pl problem.tex template.tex
 
-BIBFILE = temp.bib
+#for debugging:
+.PRECIOUS: %.tex
 
-all: $(PAPER).pdf $(PAPER-L).pdf
+#spell::
+#	 ispell *.tex
 
-view: $(PAPER).pdf
-	open $(PAPER).pdf
+%.tex : %.dat
+	$(DAT2TEX) $(basename $^ .dat)
 
-view-l: $(PAPER-L).pdf
-	open $(PAPER-L).pdf
+%.pdf : %.tex
+	$(TEX) $^
 
-spell::
-	ispell *.tex
-
+all: $(addsuffix .pdf, $(basename $(wildcard *.dat)))
+	
 clean::
-	rm -fv *.aux *.log *.bbl *.blg *.toc *.out *.lot *.lo $(PAPER).pdf $(PAPER).tex $(PAPER-L).pdf $(PAPER-L).tex
+	rm -fv *.aux *.log *.bbl *.blg *.toc *.out *.lot *.lo *.4ct *.4tc *.idv *.lg *.tmp *.xref *.dvi *.tex *.pdf
 
-$(PAPER).tex: $(PAPER).dat template.tex problem.tex
-	$(DAT2TEX) $(PAPER)
-
-$(PAPER).pdf: $(PAPER).tex
-	$(TEX) $(PAPER) 
-
-$(PAPER-L).tex: $(PAPER-L).dat template.tex problem.tex
-	$(DAT2TEX) $(PAPER-L)
-
-$(PAPER-L).pdf: $(PAPER-L).tex
-	$(TEX) $(PAPER-L) 
