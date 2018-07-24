@@ -1,0 +1,10 @@
+Description= 
+Columns=4
+$a(c + 1)$
+$c(c + 1)$
+$e(d + 1)$
+$a(a - 1)$
+$2b(a - 1)$
+$xy(xy - 1)$
+$a^2 (a^2 - 1)$
+$5(z - 1)$

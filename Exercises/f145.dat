@@ -1,0 +1,14 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Columns=3
+$a^2 - b^2$
+$x^2 - 1$
+$4c^2 - 9d^2$
+$49p^2 - 1$
+$x^4 - y^4$
+$16c^4 - 1$
+$1 - 4a^2 b^2$
+$64a^2 b^2 - 9c^2$
+$a^2 b^2 - c^4$
+$4a^2 c^2 - 25b^2 d^2$
+$4.84m^2 - 6.25n^2$
+$b^2 - 361$
