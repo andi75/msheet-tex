@@ -1,0 +1,6 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Columns=4
+$8a + 8$
+$7b - 7$
+$z^3 + z^2$
+$13a^2 - 13a$

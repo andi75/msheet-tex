@@ -1,0 +1,10 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Columns=4
+$ac + a$
+$c^2 + c$
+$de + e$
+$a^2 - a$
+$2ab - 2b$
+$x^2 y^2 - xy$
+$a^4 - a^2$
+$5z - 5$
