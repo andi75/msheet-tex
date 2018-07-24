@@ -1,7 +1,0 @@
-Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
-Columns=3
-$4a(5a^2 + a)$
-$6b(2b^2 - 1)$
-$3a^2(a^3 - a^2)$
-$1.5a^4(3a^2 - 6a^3)$
-$2x^3(5x^3 + 4x^2)$

@@ -1,9 +1,0 @@
-Description=Zerlege so weit wie möglich in Faktoren:
-Columns=3
-$a^2 + 2a + 1$
-$x^2 - 2xy + y^2$
-$9a^2 + 6a + 1$
-$9a^2 - 6a + 1$
-$49x^2 - 28x + 4$
-$16a^2 + 24ab + 9b^2$
-$36a^2 - 60ab + 25b^2$
