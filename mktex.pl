@@ -56,7 +56,7 @@ for my $problem (@{$sheet{"list"}})
 	}
 	else
 	{
-		my %p = readDat("Aufgaben/" . $problem . ".dat");
+		my %p = readDat("Exercises/" . $problem . ".dat");
 		push @problems, \%p;
 	}
 }
