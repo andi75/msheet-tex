@@ -1,8 +1,4 @@
 tmp
-uebung.tex
-uebung-l.tex
-uebung.pdf
-uebung-l.pdf
 *.aux
 *.log
 *.bbl
@@ -10,3 +6,4 @@ uebung-l.pdf
 *.out
 *.lot
 *.lo
+.gitignore
