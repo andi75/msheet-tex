@@ -10,7 +10,10 @@ Requirements (I use OS X, but a Linux or Cygwin setup should work just as well)
 
 Usage:
 
-The command 
+Copy the files uebung.dat and uebung-l.dat from the Examples directory to
+the current directory, then type 'make'.
+
+Alternatively, the command 
 
 perl mktex.pl uebung
 
@@ -21,5 +24,3 @@ pdflatex uebung.tex
 
 You can repeat the steps above for uebung-l to generate the solutions to the
 problems.
-
-Alternatively, just type 'make' to create uebung.pdf and uebung-l.pdf
