@@ -6,7 +6,7 @@ DAT2TEX = perl mktex.pl
 BASE = mktex.pl problem.tex template.tex
 
 #for debugging:
-.PRECIOUS: %.tex
+#.PRECIOUS: %.tex
 
 #spell::
 #	 ispell *.tex
@@ -19,6 +19,9 @@ BASE = mktex.pl problem.tex template.tex
 
 all: $(addsuffix .pdf, $(basename $(wildcard *.dat)))
 	
+semiclean::
+	rm -fv *.aux *.log *.bbl *.blg *.toc *.out *.lot *.lo *.4ct *.4tc *.idv *.lg *.tmp *.xref *.dvi *.tex
+
 clean::
 	rm -fv *.aux *.log *.bbl *.blg *.toc *.out *.lot *.lo *.4ct *.4tc *.idv *.lg *.tmp *.xref *.dvi *.tex *.pdf
 
