@@ -1,0 +1,5 @@
+Description=Verwende als Krytosystem RSA.\\ Entschlüssle und verschlüssle mit dem private key (n = 2491, d = 3)
+Columns=1
+(1 Punkt) Bestimme die Message m für den Ciphertext c = 2066.
+(2 Punkte) Du wählst p=7, q=3 und den publickey(n=21,e=17). Bestimme das d Deines private keys.
+(2 Punkte) Das RSA-Verfahren basiert darauf, dass einige mathematische Probleme sehr schwierig bis nahezu unmöglich zu lösen sind, wenn die beteiligten Zahlen genügend gross sind. Welche Probleme sind dies beim RSA-Verfahren? Wie könnte ein Angreifer vorgehen, wenn er eines der Probleme gelöst hätte?
