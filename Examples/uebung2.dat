@@ -1,8 +1,13 @@
 Title=Algebra
+Title-en=Algebra
 Subtitle=Weitere Übungen
+Subtitle-en=Exercises
 Class=Mathematik BM-C
+Class-en=Mathematics BM-C
 Date=16.8.2018
+Date-en=16.8.2018
 Intro=Zerlege so weit wie möglich in Faktoren:
+Intro-en=Factor the expressions:
 %%nodesc%%
 algebra/124
 algebra/125

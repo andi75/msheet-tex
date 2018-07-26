@@ -1,4 +1,5 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
+Description-en=Expand:
 Columns=3
 $4a(5a^2 + a)$
 $6b(2b^2 - 1)$

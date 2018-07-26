@@ -12,11 +12,11 @@ sub readDat { my $infile = shift;
 	{
 		next if(/^#/);
 		chomp();
-		if(/(\w+)=(.+)/)
+		if(/([\w\-]+)=(.+)/)
 		{
 			my $key = $1;
 			my $value = $2;
-			# print $key . " -> " . $value . "\n";
+			print STDERR $key . " -> " . $value . "\n";
 			$dat{"map"}{$key} = $value;
 		}
 		else
@@ -38,7 +38,16 @@ sub printHash
 	}
 }
 
-my $filename = shift @ARGV;
+my $arg = shift @ARGV;
+my $lang = "de";
+my $filename = $arg;
+
+if($arg =~ /--lang=(\w+)/)
+{
+	$lang = $1;
+	$filename = shift @ARGV;
+}
+
 my $infile = $filename . ".dat";
 my $outfile = $filename . ".tex";
 open(my $ofh, ">$outfile") || die "can't open $outfile for writing";
@@ -121,7 +130,15 @@ while(<$tfh>)
 							}
 							else
 							{
-								s/%%$token%%/$pmhash{$token}/;
+								if($lang ne "de" && defined $pmhash{"$token-$lang"})
+								{
+									print STDERR "using $token-$lang instead\n";
+									s/%%$token%%/$pmhash{"$token-$lang"}/;
+								}
+								else
+								{
+									s/%%$token%%/$pmhash{$token}/;
+								}
 								if($token eq "Description" && $nodesc == 1)
 								{
 									$_ = "\$ \$\n";
@@ -137,10 +154,24 @@ while(<$tfh>)
 		}
 		else
 		{
-			# print("replacing $token with " . $maphash{$token} . "\n");
-			if(defined $maphash{$token})
+			my $hashkey = $token;
+			my $hashkey_lang = "$token-$lang";
+			if($lang ne "de")
 			{
-				s/%%$token%%/$maphash{$token}/;
+				print STDERR "checking for key $hashkey_lang\n";
+				if( defined $maphash{$hashkey_lang}) {
+					$hashkey = $hashkey_lang;
+				}
+				else
+				{
+					print STDERR "no foreign text defined for key $hashkey_lang\n";
+				}
+			}
+
+			if(defined $maphash{$hashkey})
+			{
+				print STDERR "replacing $token with " . $maphash{$hashkey} . " using key $hashkey\n";
+				s/%%$token%%/$maphash{$hashkey}/;
 			}
 			else
 			{

@@ -1,4 +1,5 @@
 Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
 Columns=4
 $ac + a$
 $c^2 + c$

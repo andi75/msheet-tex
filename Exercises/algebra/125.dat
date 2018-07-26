@@ -1,4 +1,5 @@
 Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
 Columns=3
 $6ax + 6ay$
 $3bx - 3ax$

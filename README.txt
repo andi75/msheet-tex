@@ -24,3 +24,11 @@ pdflatex uebung.tex
 
 You can repeat the steps above for uebung-l to generate the solutions to the
 problems.
+
+Multiple language:
+
+mktex.pl now supports outputting in multiple languages, if the
+templates/exercises contain the appropriate translations. Either
+edit the Makefile, or just add the --lang=en switch after mktex.pl,
+e.g. 'perl mktex.pl --lang=en uebung' to switch to the english
+output.

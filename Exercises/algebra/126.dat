@@ -1,4 +1,5 @@
 Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
 Columns=4
 $8a + 8$
 $7b - 7$

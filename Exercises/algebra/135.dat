@@ -1,4 +1,5 @@
 Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
 Columns=2
 $a(x + y) + b(x + y)$
 $a(a - b) + b(a - b)$

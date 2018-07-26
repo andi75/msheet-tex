@@ -1,4 +1,5 @@
 Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
 Columns=3
 $6a^2 - 6$
 $4b^2 - 4$

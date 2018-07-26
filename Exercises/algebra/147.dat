@@ -1,4 +1,5 @@
 Description=Vereinfache so weit wie möglich:
+Description-en=Simplify:
 Columns=4
 $x \cdot xy$
 $r \cdot rs$

@@ -1,4 +1,5 @@
 Description=Kürze so weit wie möglich
+Description_en=Simplify:
 Columns=4
 \[ \frac{u^2 + 2uv + v^2}{4u + 4v} \]
 \[ \frac{2ac - 5bc}{4a^2 - 20ab + 25b^2} \]

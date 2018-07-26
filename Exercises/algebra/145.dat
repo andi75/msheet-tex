@@ -1,4 +1,5 @@
 Description=Vereinfache so weit wie möglich:
+Description-en=Simplify:
 Columns=3
 $4a \cdot 5b$
 $6a \cdot 17b \cdot 5c$

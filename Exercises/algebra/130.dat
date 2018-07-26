@@ -1,4 +1,5 @@
 Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
 Columns=2
 $16my - 24ny + 18y$
 $10ab - 20a^2 b + 30ab^2$

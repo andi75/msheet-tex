@@ -1,4 +1,5 @@
 Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
 Columns=3
 $2x^2 - 4x + 2$
 $ab^2 + 2ab + a$
