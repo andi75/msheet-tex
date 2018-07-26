@@ -1,11 +1,17 @@
 Title=Algebra - Bruchterme
-Subtitle=Übungen
+Title-en=Algebra - Fractions
+Subtitle=Übungen - Lösungen
+Subtitle-en=Exercises - Solutions
 Class=Mathematik BM-C
+Class-en=Mathematik S1d
 Date=16.8.2018
+Date-en=16.8.2018
+Intro= 
+Inro-en= 
 %%nodesc%%
-algebra/bruch13-l
-algebra/bruch15-l
-algebra/bruch17-l
-algebra/bruch19-l
-algebra/bruch23-l
-algebra/bruch25-l
+algebra/fractions/bruch13-l
+algebra/fractions/bruch15-l
+algebra/fractions/bruch17-l
+algebra/fractions/bruch19-l
+algebra/fractions/bruch23-l
+algebra/fractions/bruch25-l
