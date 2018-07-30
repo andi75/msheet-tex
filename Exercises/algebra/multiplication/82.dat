@@ -1,0 +1,9 @@
+Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
+Description-en=Expand:
+Columns=3
+$(a + 3)(a - 1)$
+$(c - 9)(c + 1)$
+$(x - 5)(x - 3)$
+$(a -7)(a - 2)$
+$(x + 10)(z - 11)$
+$(8 - t)(7 - t)$
