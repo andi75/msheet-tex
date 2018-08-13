@@ -1,10 +1,12 @@
 TEX = pdflatex -interaction nonstopmode
 BIB = bibtex
 GS = gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite 
-# german
-DAT2TEX = perl mktex.pl --lang=de
-# english
+# force german
+# DAT2TEX = perl mktex.pl --lang=de
+# force english
 # DAT2TEX = perl mktex.pl --lang=en
+# select language from .dat and default to "de"
+DAT2TEX = perl mktex.pl
 
 BASE = mktex.pl problem.tex template.tex
 
