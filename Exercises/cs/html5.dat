@@ -1,0 +1,2 @@
+Description=Erstelle ein HTML-Dokument mit den folgenden Elementen: \begin{itemize}\item head, title \item body, headings h1-h3 \item Bild \end{itemize}
+Columns=1
