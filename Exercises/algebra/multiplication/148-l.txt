@@ -1,0 +1,7 @@
+Description= 
+Columns=4
+$32a^2 bc$
+$12m^2 p$
+$0.06p^2 q$
+$\frac{1}{2} c^2 de$
+$1200a^2 xy$

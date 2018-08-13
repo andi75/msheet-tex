@@ -1,0 +1,7 @@
+Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
+Description-en=Expand:
+Columns=3
+$(a+1)(a^2 + a + 1)$
+$(a + b)(a + b + c)$
+$(m + 2n + 1)(m + n)$
+$(c^2 + c + 1)(c^2 + 1)$

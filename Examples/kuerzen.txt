@@ -1,0 +1,18 @@
+Title=Algebra - Bruchterme
+Title-en=Algebra - Fractions
+Subtitle=Übungen
+Subtitle-en=Exercises
+Class=Mathematik BM-C
+Class-en=Mathematik S1d
+Date=16.8.2018
+Date-en=16.8.2018
+Intro=Kürze so weit wie möglich:
+Intro-en=Simplify:
+%%nodesc%%
+algebra/fractions/bruch13
+algebra/fractions/bruch15
+algebra/fractions/bruch17
+algebra/fractions/bruch19
+algebra/fractions/bruch23
+%%newpage%%
+algebra/fractions/bruch25

@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=3
+$4a - 4b$
+$-6a - 3b$
+$-10x + 6y$
+$20x - 5y$
+$-18a + 6c$
+$-9f + q$

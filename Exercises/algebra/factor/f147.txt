@@ -1,0 +1,10 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=3
+$2x^2 - 4x + 2$
+$ab^2 + 2ab + a$
+$x^3 - 2x^2 y + xy^2$
+$80a^2 - 120ab + 45b^2$
+$-a^2 - 2ab - b^2$
+$-x^2 + 4x - 4$
+$-3a^2 + 18ab - 27b^2$

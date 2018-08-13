@@ -1,0 +1,8 @@
+Description= 
+Description-en= 
+Columns=2
+$6a+b$
+$69+94a$
+$12x+y$
+$94a+23b+34$
+$8.9c^2 -16.6c$

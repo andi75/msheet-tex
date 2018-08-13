@@ -1,0 +1,6 @@
+Description=Vereinfache so weit wie möglich:
+Description-en=Simplify:
+Columns=2
+$12p - 4q - (6p - 4q) - ((3p + 4q) - (2p + 9q))$
+$15t - ((3t - 6u) - v) - (5u - (20t + 4v))$
+$10.8a - (2.4a + 1.5) - (7.6a - (1.5a + 2.3) - (5.4a - 0.7))$

@@ -1,0 +1,6 @@
+Description= 
+Columns=4
+$x^2 y$
+$r^2 s$
+$20p^2$
+$12q^2$

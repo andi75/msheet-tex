@@ -1,0 +1,8 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=2
+$16my - 24ny + 18y$
+$10ab - 20a^2 b + 30ab^2$
+$4a^5 - 8a^4 + 6a^3 - 12a^2$
+$9ax^3 - 12a^2 x^2 - 15a^3 x$
+$10xy^4 - 15xy^3 + 20xy^2 - 24xy$

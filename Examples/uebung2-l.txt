@@ -1,0 +1,23 @@
+Title=Algebra
+Title-en=Algebra
+Subtitle=Weitere Übungen
+Subtitle-en=Exercises
+Class=Mathematik BM-C
+Class-en=Mathematics BM-C
+Date=16.8.2018
+Date-en=16.8.2018
+Intro= 
+Intro-en= 
+%%nodesc%%
+algebra/factor/124-l
+algebra/factor/125-l
+algebra/factor/126-l
+algebra/factor/127-l
+algebra/factor/128-l
+algebra/factor/130-l
+algebra/factor/135-l
+algebra/factor/f144-l
+%%newpage%%
+algebra/factor/f145-l
+algebra/factor/f146-l
+algebra/factor/f147-l

@@ -1,0 +1,8 @@
+Description=Kürze so weit wie möglich
+Description-en=Simplify:
+Columns=3
+\[ \frac{12d^2}{9} \]
+\[ \frac{10r}{15r} \]
+\[ \frac{16xyz}{20xz} \]
+\[ \frac{24a^2 bc^2}{56abcd} \]
+\[ \frac{-72uv^3 w^6}{-60uv^3 w^5} \]

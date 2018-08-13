@@ -1,0 +1,10 @@
+Description=Vereinfache so weit wie möglich:
+Description-en=Simplify:
+Columns=4
+$3a^2 \cdot 5a^3$
+$4x^3 \cdot x^2$
+$11x^3 \cdot 11x^4$
+$ab^2 \cdot a^3b$
+$c^2 d^3 \cdot cd$
+$ab^2 c^3 \cdot a^3 b^2 c$
+$4xy^3 \cdot 5x^2$
