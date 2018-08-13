@@ -39,7 +39,7 @@ sub printHash
 }
 
 my $arg = shift @ARGV;
-my $lang = "de";
+my $lang = "";
 my $filename = $arg;
 
 if($arg =~ /--lang=(\w+)/)
@@ -54,6 +54,19 @@ open(my $ofh, ">$outfile") || die "can't open $outfile for writing";
 select($ofh);
 
 my %sheet = readDat($infile);
+# %sheet contains the meta data
+my %maphash = %{$sheet{"map"}};
+
+# if a language was used on the command line, use that, else
+# check if dat file specified a language, else select "de"
+if($lang eq "" && defined($maphash{"lang"}) )
+{
+	$lang = $maphash{"lang"};
+}
+else
+{
+	$lang = "de";
+}
 
 my @problems = ();
 for my $problem (@{$sheet{"list"}})
@@ -70,8 +83,6 @@ for my $problem (@{$sheet{"list"}})
 	}
 }
 
-# %sheet contains the meta data
-my %maphash = %{$sheet{"map"}};
 # @problems contains each problem
 
 my $nodesc = 0;
@@ -95,7 +106,7 @@ while(<$tfh>)
 				if(defined $phash{"command"})
 				{
 					my $cmd = $phash{"command"};
-					if($cmd eq "pagebreak")
+					if($cmd eq "newpage")
 					{
 						print "\\newpage\n";
 					}
