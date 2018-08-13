@@ -10,14 +10,14 @@ Requirements (I use OS X, but a Linux or Cygwin setup should work just as well)
 
 Usage:
 
-Copy the files uebung.dat and uebung-l.dat from the Examples directory to
+Copy the files uebung.txt and uebung-l.txt from the Examples directory to
 the current directory, then type 'make'.
 
 Alternatively, the command 
 
 perl mktex.pl uebung
 
-will parse uebung.dat, and create a file uebung.tex, which can be transformed
+will parse uebung.txt, and create a file uebung.tex, which can be transformed
 into a PDF using
 
 pdflatex uebung.tex
