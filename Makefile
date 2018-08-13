@@ -16,13 +16,13 @@ BASE = mktex.pl problem.tex template.tex
 #spell::
 #	 ispell *.tex
 
-%.tex : %.dat
-	$(DAT2TEX) $(basename $^ .dat)
+%.tex : %.txt
+	$(DAT2TEX) $(basename $^ .txt)
 
 %.pdf : %.tex
 	$(TEX) $^
 
-all: $(addsuffix .pdf, $(basename $(wildcard *.dat)))
+all: $(addsuffix .pdf, $(basename $(wildcard *.txt)))
 	
 semiclean::
 	rm -fv *.aux *.log *.bbl *.blg *.toc *.out *.lot *.lo *.4ct *.4tc *.idv *.lg *.tmp *.xref *.dvi *.tex
