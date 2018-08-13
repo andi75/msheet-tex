@@ -48,7 +48,7 @@ if($arg =~ /--lang=(\w+)/)
 	$filename = shift @ARGV;
 }
 
-my $infile = $filename . ".dat";
+my $infile = $filename . ".txt";
 my $outfile = $filename . ".tex";
 open(my $ofh, ">$outfile") || die "can't open $outfile for writing";
 select($ofh);

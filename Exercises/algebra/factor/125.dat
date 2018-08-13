@@ -1,8 +1,0 @@
-Description=Zerlege so weit wie möglich in Faktoren:
-Description-en=Factor the expression:
-Columns=3
-$6ax + 6ay$
-$3bx - 3ax$
-$5c^2 + 5cd$
-$24a^3 - 16a^2$
-$28acd - 21ac$

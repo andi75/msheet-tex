@@ -1,7 +1,0 @@
-Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
-Description-en=Expand:
-Columns=4
-$(a + 1)(b - 1)$
-$(c - 5)(d - 2)$
-$(q - 2)(1 + p)$
-$(t - 1)(s - 1)$

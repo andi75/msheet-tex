@@ -1,7 +1,0 @@
-Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
-Description-en=Expand:
-Columns=3
-$(5h + 7)(5h+2)$
-$(3 + 4a)(2x + 1)$
-$(a + 2)(7 + 3a)$
-$(14i + 5)(20i + 14)$

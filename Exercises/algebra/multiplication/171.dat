@@ -1,7 +1,0 @@
-Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
-Description-en=Expand:
-Columns=3
-$(x+y)^2$
-$(2a + b)^2$
-$(x+1)^2$
-$(z+5)^2$

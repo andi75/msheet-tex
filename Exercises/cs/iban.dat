@@ -1,4 +1,0 @@
-Description=Eine IBAN-Nummer, z.B. CH2909000000840118564 berechnet sich wie folgt: Man nimmt die Bankennummer (Post: 09000), dann die Konto-Nummer: (aus 84-11856-4 wird dabei 000840118564), dann den Ländercode (CH: 1217), dann 00, und bildet damit die folgende Zahl: 9000000840118564121700. Nun rechnet man diese Zahl modulo 97, das gibt hier 69 (mit dem Taschenrechner ist es möglich, aber etwas mühsam. In Python kann man es einfach eintippen...). Danach berechnet sich die Prüfsumme aus $97 + 1- 69 = 29$, nun setzt man den Ländercode CH, die Prüfsumme, die Bankennummer und die Kontonummer wieder zusammen, und erhält die IBAN.
-Columns=1
-(2 Punkte) Passe die Kontonummer 000840118564 so an, dass sich die IBAN-Prüfsumme nicht ändert.
-(1 Punkt) Auch die Postkonto-Nummer 84-19228-4 würde gemäss obiger Berechnung zur IBAN Prüfsumme 29 führen. Warum würde die Post den Irrtum trotzdem bemerken?

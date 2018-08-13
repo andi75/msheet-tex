@@ -1,6 +1,0 @@
-Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
-Description-en=Expand:
-Columns=3
-$(2z^2 + 1)(2z^2 - 1)$
-$(a^2 + b^2)(a^2 - b^2)$
-$(2m^2 - m)(2m^ + m)$

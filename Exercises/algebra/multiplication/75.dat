@@ -1,9 +1,0 @@
-Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
-Description-en=Expand:
-Columns=3
-$-5(2a - b + 3c)$
-$-2(a + b - d)$
-$(5m - 3n + p)\frac{1}{2}a$
-$(5m - 3n + q)(-4)$
-$(-c - e + f - 1)(-1)$
-$(4p - q + 5r)(-2b)$
