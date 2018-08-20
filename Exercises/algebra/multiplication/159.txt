@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $4a(5a^2 + a)$
 $6b(2b^2 - 1)$
 $3a^2(a^3 - a^2)$

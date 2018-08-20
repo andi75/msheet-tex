@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $(a + 3)(a - 1)$
 $(c - 9)(c + 1)$
 $(x - 5)(x - 3)$

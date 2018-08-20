@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=4
+$x^2 + 7x - 60$
+$x^2 + 17x - 60$
+$x^2 + 11x - 60$
+$x^2 - 59x - 60$
+$a^4 + 3a^2 - 10$
+$x^2 y^2 + 6xy - 7$

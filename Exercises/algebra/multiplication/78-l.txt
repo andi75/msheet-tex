@@ -1,0 +1,7 @@
+Description= 
+Description-en= 
+Columns=4
+$ac - ad + bc - bd$
+$mp + mq + np + nq$
+$px -py + qx -qy$
+$ac - ad - bc + bd$

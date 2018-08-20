@@ -1,0 +1,6 @@
+Description= 
+Description-en= 
+Columns=4
+$16x^4 - 40x + 25$
+$144x^2 + 72xy + 9y^2$
+$81x^2 - 225$

@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $(x+y)^2$
 $(2a + b)^2$
 $(x+1)^2$

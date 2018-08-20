@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $-5(2a - b + 3c)$
 $-2(a + b - d)$
 $(5m - 3n + p)\frac{1}{2}a$

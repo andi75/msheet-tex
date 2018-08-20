@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=3
+$a^2 + 3a + 2$
+$a^2 + 7a + 10$
+$x^2 + 9a + 20$
+$a^2 + 9a + 9$
+$b^2 + 13b + 15$
+$12f^2 + 8f + 1$

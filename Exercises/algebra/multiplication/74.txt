@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $4(a-b)$
 $-3(2a + b)$
 $-2(5x - 3y)$

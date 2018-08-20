@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $(a + b)(c - d)$
 $(m + n)(p + q)$
 $(x - y)(p + q)$

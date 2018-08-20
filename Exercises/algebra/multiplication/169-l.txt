@@ -1,0 +1,7 @@
+Description= 
+Description-en= 
+Columns=3
+$25h^2 + 45h + 14$
+$8ax + 4a + 6x + 3$
+$3a^2 + 13a + 14$
+$34i^2 + 296i + 70$

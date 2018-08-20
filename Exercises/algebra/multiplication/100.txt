@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $(4a + 5b)(5b - 4a)$
 $(12b - d)(d + 12b)$
-$(2a - 3b)(3b + 2a)
+$(2a - 3b)(3b + 2a)$

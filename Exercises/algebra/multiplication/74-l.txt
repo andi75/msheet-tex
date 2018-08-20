@@ -1,6 +1,6 @@
 Description= 
 Description-en= 
-Columns=3
+Columns=4
 $4a - 4b$
 $-6a - 3b$
 $-10x + 6y$

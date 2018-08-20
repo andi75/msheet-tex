@@ -1,0 +1,6 @@
+Description= 
+Description-en= 
+Columns=4
+$4z^4 - 1$
+$a^4 - b^4$
+$4m^4 - m^2$

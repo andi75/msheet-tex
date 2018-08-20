@@ -1,0 +1,7 @@
+Description= 
+Description-en= 
+Columns=4
+$x^2 + 2xy + y^2$
+$4a^2 + 4ab + b^2$
+$x^2 + 2x + 1$
+$z^2 + 10z + 25$

@@ -1,5 +1,5 @@
 Description= 
-Columns=3
+Columns=4
 $20a^3 + 4a^2$
 $12b^3 - 6b)$
 $3a^5 - 3a^4$

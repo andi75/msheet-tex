@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=4
+$a^2 + 2a - 3$
+$c^2 - 8c - 9$
+$x^2 - 8x + 15$
+$a^2 - 9a + 14$
+$xz - 11x + 10z - 110$
+$t^2 - 15t + 56$

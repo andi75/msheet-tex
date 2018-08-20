@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $(4x^2 - 5)^2$
 $(12x + 3y)^2$
 $(9x + 15)(9x - 15)$

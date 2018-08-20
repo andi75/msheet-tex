@@ -1,6 +1,6 @@
 Description=Die Resultate sollen \emph{keine} Klammern mehr aufweisen:
 Description-en=Expand:
-Columns=3
+Columns=4
 $(5h + 7)(5h+2)$
 $(3 + 4a)(2x + 1)$
 $(a + 2)(7 + 3a)$

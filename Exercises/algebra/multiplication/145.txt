@@ -1,6 +1,6 @@
 Description=Vereinfache so weit wie möglich:
 Description-en=Simplify:
-Columns=3
+Columns=4
 $4a \cdot 5b$
 $6a \cdot 17b \cdot 5c$
 $12a \cdot 9 \cdot 5c$
