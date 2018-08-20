@@ -59,9 +59,9 @@ my %maphash = %{$sheet{"map"}};
 
 # if a language was used on the command line, use that, else
 # check if dat file specified a language, else select "de"
-if($lang eq "" && defined($maphash{"lang"}) )
+if($lang eq "" && defined($maphash{"Lang"}) )
 {
-	$lang = $maphash{"lang"};
+	$lang = $maphash{"Lang"};
 }
 else
 {
