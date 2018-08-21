@@ -1,0 +1,11 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=3
+$x^2 + 3x - 108$
+$255 + 32a + a^2$
+$c^2 + 6c - 7$
+$m^2 + 19m + 90$
+$b^2 + 2b - 143$
+$x^2 + 5x + 8$
+$n^2 - 29n + 204$
+$a^2 - 29a + 208$

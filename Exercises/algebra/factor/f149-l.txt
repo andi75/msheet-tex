@@ -1,0 +1,11 @@
+Description= 
+Description-en= 
+Columns=3
+$(x-9)(x+12)$
+$(a+15)(a+17)$
+$(c-1)(c+7)$
+$(m+9)(m+10)$
+$(b-11)(b+13)$
+$\ldots$
+$(n-12)(n-17)$
+$(n-13)(n-16)$
