@@ -1,0 +1,7 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=2
+$4a(x + y) + x + y$
+$5a(2a - b) + 2a - b$
+$3c(2d - 1) - 2d + 1$
+$7(4a - 3) - 4a + 3$

@@ -1,0 +1,7 @@
+Description= 
+Description-en= 
+Columns=2
+$(a + b)(x + z)$
+$(5a + 1)(b + 1)$
+$(a + b)(c - d)$
+$(y + 1)(y - x)$

@@ -1,0 +1,7 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=2
+$ax + bz + bx + az$
+$5a + b + 5ab + 1$
+$ac - bd + bc - ad$
+$y - x - xy + y^2$

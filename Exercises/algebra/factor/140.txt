@@ -1,0 +1,9 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=2
+$ax + ay + 2x + 2y$
+$x^2 + xy + 2x + 2y$
+$2ax - ay + 4bx - 2by$
+$12bx - 16b + 27x - 36$
+$ac + bc - ad - bd$
+$52c + 39d - 56bc - 42bd$

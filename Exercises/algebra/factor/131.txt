@@ -1,0 +1,8 @@
+Description=Klammere den Faktor (-1) aus:
+Description-en=Factor (-1) out of the expression:
+Columns=3
+$-x - 1$
+$-c + d - e$
+$-mx + n$
+$x - y$
+$-(a + b) - (c - d)$

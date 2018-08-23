@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=2
+$(x + y)(a + 2)$
+$(x + y)(x + 2)$
+$(2x - y)(a + 2b)$
+$(3x - 4)(4b + 9)$
+$(a + b)(c - d)$
+$(4c + 3d)(13 - 14b)$

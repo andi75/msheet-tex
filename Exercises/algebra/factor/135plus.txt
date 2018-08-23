@@ -1,0 +1,9 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=2
+$a(a - b) - b(b - a)$
+$3(2 - a) + m(a - 2)$
+$4m(m - n) - 3n(n - m)$
+$2x(2a - 1) + (1 - 2a)$
+$5b(3a - 1) - 1 + 3a$
+$1 - 5d + a(5d - 1)$

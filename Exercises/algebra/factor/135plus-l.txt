@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=2
+$(a + b)(a-b)$
+$(a - 2)(m - 3)$
+$(m - n)(4m + 3n)$
+$(2a - 1)(2x - 1)$
+$(3a - 1)(5b + 1)$
+$(5d - 1)(a - 1)$
