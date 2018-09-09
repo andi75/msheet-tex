@@ -1,0 +1,12 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=2
+$a^2 + 2ae + e^2 - b^2$
+$s^2 - f^2 + g^2 - 2gs$
+$x^2 - 6x + 9 - y^2$
+$x^2 - y^2 - z^2 + 2yz$
+$4a^2 - y^2 - 9x^2 + 6xy$
+$1 - u^2 - x^2 - 2ux$
+$9x^2 - 6xy - (z^2 - y^2)$
+$4a^2 - 25b^2 - 9c^2 + 30bc$
+$4v^2 + 49u^2 - (25t^2 + 28uv)$

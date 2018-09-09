@@ -1,0 +1,7 @@
+Description= 
+Description_en= 
+Columns=2
+\[ \frac{5}{12} \]
+\[ \frac{t + 6}{3t} \]
+\[ \frac{u - v}{uv} \]
+\[ \frac{c^2 - 8}{(c - 2)(c - 4)^2} \]

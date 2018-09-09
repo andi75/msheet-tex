@@ -1,0 +1,7 @@
+Description= 
+Description_en= 
+Columns=2
+\[ \frac{1}{2} \]
+\[ \frac{5z + 4}{(z+1)(z-1)} \]
+\[ \frac{2u - v}{(u + v)^2} \]
+\[ \frac{1}{4(a + 2b)} \]

@@ -1,0 +1,6 @@
+Description= 
+Description_en= 
+Columns=3
+\[ \frac{3a + b}{a + b} \]
+\[ \frac{3u + 5v}{u + v} \]
+\[ \frac{-z}{z + 1} \]

@@ -1,0 +1,7 @@
+Description=Kürze so weit wie möglich
+Description_en=Simplify:
+Columns=3
+\[ \frac{3z - 3y}{4y - 4z} \]
+\[ \frac{e^2 - e}{1 - e^2} \]
+\[ \frac{c^2 + c - 20}{-c^2 + c + 30} \]
+\[ \frac{r^2 - rs - rt}{rt - rs - r^2} \]

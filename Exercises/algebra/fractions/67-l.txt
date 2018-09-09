@@ -1,0 +1,6 @@
+Description= 
+Description_en= 
+Columns=3
+\[ \frac{2r + 9}{6} \]
+\[ \frac{t - 9}{2} \]
+\[ \frac{2}{n} \]

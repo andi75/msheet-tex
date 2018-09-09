@@ -1,0 +1,15 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=3
+$x^2 + 8x + 15$
+$a^2 - a - 12$
+$r^2 - 15r + 54$
+$b^2 + 3b - 28$
+$h^2 + 24h + 135$
+$u^2 + 2u - 143$
+$v^2 - 12v + 36$
+$m^2 - 43m - 240$
+$t^2 + 2t - 168$
+$a^4 + 20a^2 + 96$
+$b^4 - 4b^2 - 77$
+$x^4 + 3x^2 - 108$

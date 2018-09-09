@@ -1,0 +1,5 @@
+Description= 
+Description_en= 
+Columns=2
+\[ \frac{-7n^2 - 6n - 37}{(n + 7)(3n - 5)} \]
+\[ \frac{-8v^2 - 16v^2 w + w^3}{2vw(2v + w)} \]

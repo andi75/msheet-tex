@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=2
+$a(a^2 + 9)(a + 3)(a - 3)$
+$a(b - 2)(3a + b + 1)$
+$2x(x - 1)(x - 10)$
+$(p - 1)(10q - p)$
+$(a - b)(a + b + x)$
+$(2n + m - p)(2n - m + p)$

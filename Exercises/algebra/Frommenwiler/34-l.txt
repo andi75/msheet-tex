@@ -1,0 +1,12 @@
+Description= 
+Description-en= 
+Columns=2
+$(a + e + b)(a + e - b)$
+$(g - s + f)(g - s - f)$
+$(x - 3 + y)(x - 3 - y)$
+$(x + y - z)(x - y + z)$
+$(2a + 3x - y)(2a - 3x + y)$
+$(1 + x + u)(1 - x - u)$
+$(3x - y + z)(3x - y - z)$
+$(2a + 5b - 3c)(2a - 5b + 3c)$
+$(7u - 2v + 5t)(7u - 2v - 5t)$

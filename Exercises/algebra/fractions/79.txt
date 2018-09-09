@@ -1,0 +1,7 @@
+Description=Schreibe als einen Bruch und vereinfache:
+Description_en=Write as a single fraction and simplify:
+Columns=2
+\[ \frac{7}{e - 1} + \frac{6}{1 - e} \]
+\[ \frac{5}{3h - 3} - \frac{4}{2 - 2h} \]
+\[ \frac{r - 4}{5r + 5} + \frac{2}{1 - r^2} \]
+\[ \frac{u}{u - v} - \frac{4uv}{u^2 - v^2} - \frac{u}{v - u} \]

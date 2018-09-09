@@ -1,0 +1,9 @@
+Description=Zerlege so weit wie möglich in Faktoren:
+Description-en=Factor the expression:
+Columns=2
+$a^5 - 81a$
+$3a^2(b - 2) - ab(2 - b) + a(b - 2)$
+$2x^3 - 22x^2 + 20x$
+$10pq - 10q - p^2 + p$
+$a^2 + ax - bx - b^2$
+$4n^2 - m^2 - p^2 + 2mp$

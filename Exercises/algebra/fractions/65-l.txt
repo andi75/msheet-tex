@@ -1,0 +1,6 @@
+Description= 
+Description_en= 
+Columns=3
+\[ \frac{a + 3}{3} \]
+\[ \frac{14rs - 9}{2s} \]
+\[ \frac{5w^2 - w + 3}{w} \]

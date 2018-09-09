@@ -1,0 +1,6 @@
+Description=Schreibe als einen Bruch und vereinfache:
+Description_en=Write as a single fraction and simplify:
+Columns=3
+\[ \frac{2r + 3}{6} + 1 \]
+\[ t - 4 - \frac{t + 1}{2} \]
+\[ d - \frac{nd - 2}{n} \]

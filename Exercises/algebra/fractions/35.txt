@@ -1,0 +1,7 @@
+Description=Kürze so weit wie möglich
+Description_en=Simplify:
+Columns=3
+\[ \frac{a - b}{b - a} \]
+\[ \frac{4mp - 20}{30 - 6mp} \]
+\[ \frac{k^2 - 13k + 42}{14 - 2k} \]
+\[ \frac{-u^2 + 2uv - v^2}{4u^2 - 4v^2} \]
