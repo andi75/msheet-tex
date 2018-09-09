@@ -1,7 +1,7 @@
 Description=Kürze so weit wie möglich
 Description_en=Simplify:
-Columns=4
-\[ \frac{25}{5r+10} \]
-\[ \frac{uw}{uv+uw} \]
-\[ \frac{2m}{4mn-2m} \]
+Columns=3
+\[ \frac{25 \vphantom{36x^2 y} }{5r+10 \vphantom{12x^2 y} } \]
+# \[ \frac{uw \vphantom{36x^2 y} }{uv+uw \vphantom{12x^2 y} } \]
+\[ \frac{2m \vphantom{36x^2 y} }{4mn-2m \vphantom{12x^2 y} } \]
 \[ \frac{-36x^2 y}{12x^2 y - 60xy} \]

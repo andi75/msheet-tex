@@ -11,7 +11,7 @@ DAT2TEX = perl mktex.pl
 BASE = mktex.pl problem.tex template.tex
 
 #for debugging:
-#.PRECIOUS: %.tex
+.PRECIOUS: %.tex
 
 #spell::
 #	 ispell *.tex
