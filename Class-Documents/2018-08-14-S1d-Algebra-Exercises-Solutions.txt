@@ -1,0 +1,27 @@
+lang=en
+Title=Algebra
+Title-en=Algebra
+Subtitle=Lösungen
+Subtitle-en=Solutions
+Class=Mathematik S1d
+Class-en=Mathematics S1d
+Date=14.8.2018
+Date-en=14.8.2018
+# Ausmultiplizieren, max. eine Klammer
+algebra/multiplication/145-l
+algebra/multiplication/147-l
+algebra/multiplication/148-l
+algebra/multiplication/154-l
+# Multiplikation mit Vorzeichen, evtl. mehrere Faktoren
+algebra/multiplication/61-68-l
+# Distributiv-Gesetz
+algebra/multiplication/74-l
+algebra/multiplication/75-l
+algebra/multiplication/159-l
+%%newpage%%
+# Faktorisieren
+algebra/factor/124-l
+algebra/factor/125-l
+algebra/factor/126-l
+algebra/factor/127-l
+algebra/factor/128-l

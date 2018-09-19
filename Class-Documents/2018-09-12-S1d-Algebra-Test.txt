@@ -1,0 +1,14 @@
+Lang=en
+Title=Algebra
+Title-en=Algebra
+Subtitle=Prüfung
+Subtitle-en=Test
+Class=Mathematik S1d
+Class-en=Mathematics S1d
+Date=12.9.2018
+Date-en=12.9.2018
+algebra/pruefung-S1d-2018/1
+algebra/pruefung-S1d-2018/2
+algebra/pruefung-S1d-2018/3
+algebra/pruefung-S1d-2018/4
+algebra/pruefung-S1d-2018/5

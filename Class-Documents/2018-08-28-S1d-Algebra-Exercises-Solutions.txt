@@ -1,0 +1,13 @@
+Lang=en
+Title=Algebra
+Title-en=Algebra
+Subtitle=Lösungen
+Subtitle-en=Solutions
+Class=Mathematik S1d
+Class-en=Mathematics S1d
+Date=28.8.2018
+Date-en=28.8.2018
+# Faktorisieren
+algebra/Frommenwiler/34-l
+algebra/Frommenwiler/35-l
+algebra/Frommenwiler/41-l

@@ -1,0 +1,30 @@
+Lang=en
+Title=Algebra
+Title-en=Algebra
+Subtitle=Übungen
+Subtitle-en=Exercises
+Class=Mathematik S1d
+Class-en=Mathematics S1d
+Date=21.8.2018
+Date-en=21.8.2018
+# Ausmultiplizieren
+algebra/multiplication/168
+algebra/multiplication/169
+algebra/multiplication/170
+algebra/multiplication/171
+algebra/multiplication/172
+algebra/multiplication/78
+algebra/multiplication/79
+algebra/multiplication/82
+algebra/multiplication/83
+algebra/multiplication/96
+algebra/multiplication/100
+algebra/multiplication/101
+algebra/multiplication/102
+%%newpage%%
+# Faktorisieren
+algebra/factor/130
+algebra/factor/f144
+algebra/factor/f145
+algebra/factor/f146
+algebra/factor/f147

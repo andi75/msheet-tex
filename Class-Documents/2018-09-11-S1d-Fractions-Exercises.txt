@@ -1,0 +1,22 @@
+Lang=en
+Title=Algebra - Bruchterme
+Title-en=Algebra - Fractions
+Subtitle=Übungen
+Subtitle-en=Exercises
+Class=Mathematik BM-C
+Class-en=Mathematics S1d
+Date=4.9.2018
+Date-en=11.9.2018
+Intro=Schreibe als einen Bruch und vereinfache:
+Intro-en=Write as a single fraction and simplify:
+%%nodesc%%
+algebra/fractions/65
+algebra/fractions/67
+algebra/fractions/69
+algebra/fractions/73
+algebra/fractions/77
+%%newpage%%
+algebra/fractions/79
+algebra/fractions/81
+algebra/fractions/83
+algebra/fractions/85

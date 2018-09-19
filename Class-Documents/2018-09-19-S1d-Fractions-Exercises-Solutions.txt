@@ -1,0 +1,14 @@
+Lang=en
+Title=Algebra - Bruchterme
+Title-en=Algebra - Fractions
+Subtitle=Lösungen
+Subtitle-en=Solutions
+Class=Mathematik BM-C
+Class-en=Mathematics S1d
+Date=19.9.2018
+Date-en=19.9.2018
+Intro= 
+Intro-en= 
+%%nodesc%%
+algebra/Frommenwiler/53-l
+algebra/Frommenwiler/54-l

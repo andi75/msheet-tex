@@ -1,0 +1,18 @@
+Lang=en
+Title=Algebra
+Title-en=Algebra
+Subtitle=Lösungen
+Subtitle-en=Solutions
+Class=Mathematik S1d
+Class-en=Mathematics S1d
+Date=22.8.2018
+Date-en=22.8.2018
+# Faktorisieren
+algebra/factor/f148-l
+algebra/factor/f149-l
+algebra/factor/135-l
+algebra/factor/137-l
+algebra/factor/131-l
+algebra/factor/135plus-l
+algebra/factor/140-l
+algebra/factor/140plus-l

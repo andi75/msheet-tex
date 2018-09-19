@@ -1,0 +1,18 @@
+Lang=en
+Title=Algebra
+Title-en=Algebra
+Subtitle=Übungen
+Subtitle-en=Exercises
+Class=Mathematik S1d
+Class-en=Mathematics S1d
+Date=22.8.2018
+Date-en=22.8.2018
+# Faktorisieren
+algebra/factor/f148
+algebra/factor/f149
+algebra/factor/135
+algebra/factor/137
+algebra/factor/131
+algebra/factor/135plus
+algebra/factor/140
+algebra/factor/140plus

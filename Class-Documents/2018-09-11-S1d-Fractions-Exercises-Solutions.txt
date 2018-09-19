@@ -1,0 +1,20 @@
+Lang=en
+Title=Algebra - Bruchterme
+Title-en=Algebra - Fractions
+Subtitle=Lösungen
+Subtitle-en=Solutions
+Class=Mathematik BM-C
+Class-en=Mathematics S1d
+Date=4.9.2018
+Date-en=11.9.2018
+%%nodesc%%
+algebra/fractions/65-l
+algebra/fractions/67-l
+algebra/fractions/69-l
+algebra/fractions/73-l
+algebra/fractions/77-l
+%%newpage%%
+algebra/fractions/79-l
+algebra/fractions/81-l
+algebra/fractions/83-l
+algebra/fractions/85-l
