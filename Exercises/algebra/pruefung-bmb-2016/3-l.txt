@@ -1,0 +1,6 @@
+Description= 
+Columns=2
+$a(a^2 + 6)(3a - 4)$
+$4(k^2 + 4)(k + 2)(k - 2)$
+$3(x - y)(x + y)$
+$(x + y - z)(x - y + z)$

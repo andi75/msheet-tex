@@ -1,0 +1,5 @@
+Description= 
+Description-en= 
+Columns=1
+$a^3 - b^3$
+$(a - 2)(a^2 + 2a + 4)$

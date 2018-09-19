@@ -1,0 +1,9 @@
+Description=Schreibe als einen Bruch und vereinfache:
+Description_en=Write as a single fraction and simplify:
+Columns=2
+\[ \frac{u}{u + v} - \frac{u - v}{2u + 2v} \]
+\[ \frac{m - n}{m + n} - \frac{m + n}{m - n} \]
+\[ \frac{3}{x - 2} + \frac{2}{2 - x} \]
+\[ \frac{m}{m - n} - \frac{n}{n - m} - \frac{2mn}{m^2 - n^2} \]
+\[ \frac{(3x - 2)^2}{4 - 9x^2} + \frac{27x^2 - 12}{27x^2 - 36x + 12} \]
+\[ \frac{7a - 2a^2}{1 - 4a^2} + \frac{a + 1}{2a - 1} - \frac{2a}{2a + 1} \]

@@ -1,0 +1,5 @@
+Description= 
+Columns=2
+\[ \frac{7b + 2}{3} \]
+\[ \frac{x - 1}{2x} \]
+\[ \frac{-2a(2a + 5)}{b + 5} \]

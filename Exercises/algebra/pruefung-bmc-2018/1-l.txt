@@ -1,0 +1,4 @@
+Description= 
+Columns=2
+$30x^2 + 2x - 56$
+$3a^2 + 4$

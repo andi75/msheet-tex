@@ -1,0 +1,4 @@
+Description= 
+Columns=2
+$-90z^2 + 19z - 1$
+$8x - 48$

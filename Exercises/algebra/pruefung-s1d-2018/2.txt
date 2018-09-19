@@ -1,0 +1,5 @@
+Description=Multipliziere aus und vereinfache:
+Description-en=Expand and simplify:
+Columns=1
+$(x - a)(2x + 3a) - (a + x)(2x - a)$
+$(2x + 1)(4x^2 + 1)(2x - 1)$

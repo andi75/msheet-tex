@@ -1,0 +1,4 @@
+Description= 
+Columns=2
+$4x^2 y(3 - 2y^2 - 8x)$
+$(5a - 2x)^2$

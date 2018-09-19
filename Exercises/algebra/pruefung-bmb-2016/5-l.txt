@@ -1,0 +1,6 @@
+Description= 
+Columns=2
+\[ \frac{45}{4(2x - 1)} \]
+\[ \frac{16ab - 3ac + 5b^2}{30a^3 b^2} \]
+\[ \frac{-1}{n - 1} \]
+\[ \frac{1}{(a + 2)(a - 3)} \]

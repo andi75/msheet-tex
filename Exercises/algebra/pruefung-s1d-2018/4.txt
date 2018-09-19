@@ -1,0 +1,10 @@
+Description=Zerlege so weit wie möglich in Faktoren. Notiere mindestens einen Zwischenschritt!
+Description-en=Factor the expression. Write down at least one intermediate step!
+Columns=1
+$12yz + 16y + 27z + 36$
+$4x^2 - (4y - 4)^2$
+$(x + 1)(x - y) - (x - 3)(x - y) + (x + 2)(y - x)$
+$(2a - b)(6p - 4q) - (a + 2b)(3p - 2q)$
+$25x^2 - 1 - 4y^2 + 4y$
+$4xy - 3 - 4y + 3x$
+$324z^4 - 4$

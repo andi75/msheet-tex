@@ -1,0 +1,5 @@
+Description=Multipliziere aus:
+Description-en=Expand:
+Columns=1
+$(5x - 9)(3x + 7)$
+$(2z + 1)(4 - 3z)$

@@ -1,0 +1,7 @@
+Description=Schreibe als einen Bruch und vereinfache:
+Description_en=Write as a single fraction and simplify:
+Columns=2
+\[ \frac{m + 13}{m^2 + m - 6} - \frac{m + 1}{m^2 - 3m + 2} \]
+\[ \frac{x + 5}{x^2 - 2x - 3} + \frac{9x - 7}{x^2 - x - 6} - \frac{4x + 3}{x^2 + 3x + 2} \]
+\[ \frac{a + b}{a^2 - ab} - \frac{a - b}{ab + b^2} + \frac{a^2 - 3ab}{a^2 b - b^3} \]
+\[ \frac{n + 1}{2n - 2} + \frac{2n^2 - 3n}{n^2 + n} + \frac{n^2 + 3}{2 - 2n^2} \]

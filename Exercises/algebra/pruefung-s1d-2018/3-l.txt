@@ -1,0 +1,7 @@
+Description= 
+Description-en= 
+Columns=1
+$6x^2 y^2 z^3(4x - 6z + 9y)$
+$(y - 6)(y - 12)$
+$(2a - 3x)^2$
+$(z - 8)(z + 5)$

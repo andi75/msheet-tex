@@ -1,0 +1,7 @@
+Description= 
+Description_en= 
+Columns=2
+\[ \frac{8}{(m + 3)(m - 1)} \]
+\[ \frac{6}{x - 3} \]
+\[ \frac{b}{a(a - b)} \]
+\[ \frac{2(n - 1)}{n + 1} \]

@@ -1,0 +1,5 @@
+Description= 
+Columns=2
+\[ \frac{x}{3} \]
+\[ b^4(a - 2b) \]
+\[ \frac{a + 6}{a - 2} \]

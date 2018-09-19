@@ -1,0 +1,4 @@
+Description= 
+Columns=2
+$(x + 8)(x + 3)$
+$(z - 8)(z + 5)$
