@@ -1,0 +1,9 @@
+Description=Vereinfache so weit wie möglich
+Description_en=Simplify:
+Columns=2
+\[ \cfrac{ \phantom{-} \cfrac{3}{4 \vphantom{g} } - \cfrac{1}{3} \phantom{-} } { \phantom{-} \cfrac{1}{2} + \cfrac{1}{3} - \cfrac{1}{4} \phantom{-} } \]
+\[ \cfrac{ \phantom{-} 1 + \cfrac{1}{a \vphantom{g} } \phantom{-} } { \phantom{-} a + \cfrac{1}{a} \phantom{-} } \]
+\[ \cfrac{ \phantom{-} \cfrac{1}{m \vphantom{g} } - \cfrac{1}{n} \phantom{-} } { m - n } \]
+\[ \cfrac{ a + b \vphantom{g} }{ \phantom{-} \cfrac{b}{a} - \cfrac{a}{b} \phantom{-} } \]
+\[ \cfrac{ \phantom{-} \cfrac{a}{b \vphantom{g} } \cdot \cfrac{c}{d} \phantom{-} } { \phantom{-} \cfrac{a}{b} - \cfrac{a + b}{d} \phantom{-} } \]
+\[ \cfrac{ \phantom{-} 1 - \cfrac{1}{x \vphantom{g} } \phantom{-} } { \phantom{-} \cfrac{1}{x^2} + \cfrac{1}{x^3} \phantom{-} } \]

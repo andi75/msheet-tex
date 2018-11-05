@@ -1,0 +1,8 @@
+Description= 
+Description_en= 
+Columns=3
+\[ \frac { 2 u } { u - 1 } \]
+\[ - \frac { 1 } { a ^ { 2 } } \]
+\[ \frac { ( 2 a + 1 ) \left( a ^ { 2 } - a - 1 \right) } { a + 1 } \]
+\[ \frac { 1 - x } { 1 + x } \]
+\[ \frac { 4 ( 1 - x ) ^ { 3 } } { x ^ { 3 } } \]

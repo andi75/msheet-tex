@@ -1,0 +1,3 @@
+Description= 
+Columns=0
+Ein Motorboot bewegt sich in einem stehenden Gewässer mit einer Geschwindigkeit von 15 km/h. Plötzlich bleibt der Motor stehen; nach 30 Sekunden beträgt die Geschwindigkeit nur noch 10km/h. Wie gross ist die Geschwindigkeit nach 2 Minuten, wenn angenommen wird, dass der Reibungswiderstand des Wassers proportional zur Geschwindigkeit des Bootes ist? 

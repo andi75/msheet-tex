@@ -1,0 +1,3 @@
+Description= 
+Columns=0
+Beim radioaktiven Zerfall einer Substanz ist die Zerfallsgeschwindigkeit proportional zur jeweils vorhandenen Menge $m(t)$ der Substanz, d.h. es gilt die Differentialgleichung \[ m'(t) = -c \cdot m(t) \] mit einer von der Substanz abhängigen Konstanten $c > 0$. \\ Unter der Halbwertszeit versteht man die Zeitspanne, nach der noch die Hälfte der ursprünglichen Substanzmenge vorhanden ist. Die Halbwertszeit des Uran-Isotops $^{239}$U beträgt 23.5 Minuten. Bestimme die Konstante c und gib die Zeit an, nach welcher nur noch 10\% der ursprünglichen Substanzmenge vorhanden ist (die Zeit wird in Minuten gemessen).

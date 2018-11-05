@@ -1,0 +1,4 @@
+Description=Vereinfache so weit wie möglich
+Description_en=Simplify:
+Columns=1
+\[ \cfrac{ e - \cfrac{25}{e \vphantom{g} } } { \phantom{-} \cfrac{-e^2 + 2e + 15}{ \cfrac{e^2 - 9}{3 - e} } - 2e \phantom{-} } \]

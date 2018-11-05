@@ -1,0 +1,9 @@
+Description= 
+Description_en= 
+Columns=3
+\[ \frac{5}{7} \]
+\[ \frac{a+1}{a^2 + 1} \]
+\[ \frac{-1}{mn} \]
+\[ \frac{ab}{b-a} \]
+\[ \frac{ac}{ad - ab - b^2} \]
+\[ \frac{x^3 - x^2}{x+1} \]

@@ -1,0 +1,5 @@
+Description=In einem Gefäss mit $1000cm^{3}$ Wasser sind 50g Salz aufgelöst. Die Lösung wird durch ständiges Umrühren homogen gehalten. Durch ein Rohr fliesst pro Minute $10cm^{3}$ reines Wasser ins Gefäss, in der gleichen Zeitspanne laufen $10cm^{3}$ Salzwasser aus. Mit $S(t)$ sei die im Gefäss vorhandene Salzmenge zur Zeit $t$ bezeichnet.
+Columns=1
+Stelle eine Differentialgleichung für S(t) auf und löse diese.
+Wieviel Salz ist nach einer Stunde noch vorhanden?
+Wann beträgt der Salzgehalt noch 10g?

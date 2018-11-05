@@ -1,0 +1,9 @@
+Description= 
+Description_en= 
+Columns=3
+\[ x - x^2 \]
+\[ \frac{12 - 4a}{a^2} \]
+\[ \frac{- x - 1}{2x} \]
+\[ \frac{a}{b} \]
+\[ \frac{4b - 2a}{ab} \]
+\[ a \]

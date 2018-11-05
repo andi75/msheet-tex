@@ -1,0 +1,3 @@
+Description= 
+Columns=0
+Ein nicht isolierter Körper der Temperatur $T$ befindet sich in einer Umgebung mit der konstanten Temperatur $U < T$. Nach dem Newtonschen Abkühlungsgesetz ist die Abkühlgeschwindigkeit $T'$ der Temperaturdifferenz $T - U$ proportional: \[ T' = -k(T - U) \] mit einer für den Körper charakteristischen Konstanten $k > 0$. Ermittle die Formel für $T = T(t)$ unter der Annahme $T(0) = T_{0}$.

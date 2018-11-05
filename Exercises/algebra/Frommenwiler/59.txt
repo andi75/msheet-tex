@@ -1,0 +1,9 @@
+Description=Vereinfache so weit wie möglich
+Description_en=Simplify:
+Columns=2
+\[ \cfrac{ \phantom{-} \cfrac{2}{3 \vphantom{g} } \phantom{-} } { \cfrac{4}{5} } \]
+\[ \cfrac{ \phantom{-} \cfrac{2}{a \vphantom{g} } \phantom{-} } { b } \]
+\[ \cfrac{ \phantom{-} x \vphantom{g} \phantom{-} } { \cfrac{3}{y} } \]
+\[ \cfrac{ \phantom{-} \cfrac{a}{a - 1 \vphantom{g} } \phantom{-} } { a + 1 } \]
+\[ \cfrac{ \phantom{-} 2n \vphantom{g} \phantom{-} } { \phantom{-} \cfrac{3}{n - 2} \phantom{-} } \]
+\[ \cfrac{ \phantom{-} \cfrac{a}{x \vphantom{g} } \phantom{-} } { \cfrac{b}{x^3} } \]

@@ -1,0 +1,9 @@
+Description=Vereinfache so weit wie möglich
+Description_en=Simplify:
+Columns=2
+\[ \cfrac{ \phantom{-} x \vphantom{g} \phantom{-} } { \phantom{-} 1 - \cfrac{x}{x-1} \phantom{-} } \]
+\[ \cfrac{ \phantom{-} 4 \vphantom{g} \phantom{-} } { \phantom{-} \cfrac{3a}{3-a} - a \phantom{-} } \]
+\[ \cfrac{ \phantom{-} 1 \vphantom{g} \phantom{-} } { \phantom{-} \cfrac{2x^2}{1+x} - 2x \phantom{-} } \]
+\[ \cfrac{ \phantom{-} \cfrac{a}{b \vphantom{g} } + 1 \phantom{-} } { \phantom{-} \cfrac{b}{a \vphantom{g} } + 1 \phantom{-} } \]
+\[ \cfrac{ \phantom{-} \cfrac{4}{a^2 \vphantom{g} } - \cfrac{4}{ab} + \cfrac{1}{b^2} \phantom{-} } { \phantom{-} \cfrac{1}{a} - \cfrac{1}{2b} \phantom{-} } \]
+\[ \cfrac{ \phantom{-} \cfrac{1}{a - 1 \vphantom{g} } + 1 \phantom{-} } { \phantom{-} \cfrac{a}{a - 1 \vphantom{g} } - 1 \phantom{-} } \]

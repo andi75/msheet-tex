@@ -1,0 +1,7 @@
+Description=Vereinfache so weit wie möglich
+Description_en=Simplify:
+Columns=1
+\[ \cfrac { \phantom{-} 2 a + 1 - \cfrac { 1 } { 8 a + 4 } \phantom{-} } { 2 a + 1 + \cfrac { a } { 2 a + 1 } } \]
+\[ \cfrac { \phantom{-} \cfrac { u - v } { u + v } - \cfrac { u } { u - v } \phantom{-} } { \cfrac { u + v } { u - v } - \cfrac { v } { u + v } } \]
+\[ \left( 1 - \frac { 1 } { 1 + p } \right) \left( \frac { 1 + p } { 1 - p } - 1 \right) \]
+\[ \cfrac { 1 - \left( \cfrac { w } { w + 1 } \right) ^ { 2 } } { \phantom{-} \cfrac { 2 w } { w + 1 } - \cfrac { 2 } { w + 1 } \phantom{-} } \]

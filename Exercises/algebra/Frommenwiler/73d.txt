@@ -1,0 +1,4 @@
+Description=Schreibe als einen Bruch und vereinfache:
+Description_en=Write as a single fraction and simplify:
+Columns=1
+\[ \cfrac { \phantom{-} \cfrac { 1 - 7 a } { a ^ { 2 } - 4 a + 3 } - \cfrac { a } { a - 3 } \phantom{-} } { \cfrac { 1 } { 1 - a ^ { 2 } } - \cfrac { 1 } { 6 a } } \]

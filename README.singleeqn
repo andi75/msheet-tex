@@ -1,0 +1,2 @@
+
+convert -density 600 single-eqn.pdf -flatten -trim single-eqn.png 

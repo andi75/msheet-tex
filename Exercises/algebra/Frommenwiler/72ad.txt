@@ -1,0 +1,5 @@
+Description=Schreibe als einen Bruch und vereinfache:
+Description_en=Write as a single fraction and simplify:
+Columns=1
+\[ \cfrac { \phantom{-} 1 - \cfrac { x ^ { 2 } - 1 } { x ^ { 2 } + 1 } \phantom{-} } { \cfrac { x ^ { 2 } + 1 } { x ^ { 2 } - 1 } - 1 } \left( \cfrac { 1 } { x + 1 } - \cfrac { 1 } { x - 1 } \right) \]
+\[ \left( \cfrac { a + x } { 2 x } \right) ^ { 2 } - \left( \cfrac { a - x } { 2 x } \right) ^ { 2 } - \cfrac { \phantom{-} \cfrac { a + x } { x } - \cfrac { 2 x } { x - a } \phantom{-} } { \cfrac { a ^ { 2 } + x ^ { 2 } } { x - a } } \]

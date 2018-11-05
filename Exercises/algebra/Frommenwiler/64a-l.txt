@@ -1,0 +1,4 @@
+Description= 
+Description_en= 
+Columns=1
+\[ \frac{5 - e}{e} \]

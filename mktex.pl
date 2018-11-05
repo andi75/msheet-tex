@@ -42,8 +42,7 @@ my $arg = shift @ARGV;
 my $lang = "";
 my $filename = $arg;
 
-if($arg =~ /--lang=(\w+)/)
-{
+if($arg =~ /--lang=(\w+)/) {
 	$lang = $1;
 	$filename = shift @ARGV;
 }
@@ -113,6 +112,7 @@ while(<$tfh>)
 					elsif($cmd eq "desc")
 					{
 						print $phash{"param"}. "\n\n";
+						$nodesc = 0;
 					}
 					elsif($cmd eq "nodesc")
 					{
@@ -124,7 +124,17 @@ while(<$tfh>)
 					my %pmhash = %{$phash{"map"}};
 					my @plist = @{$phash{"list"}};
 
-					open(my $pfh, "Templates/problem.tex") || die "no problem template";
+					my $template = "";
+					if($pmhash{"Columns"} eq "0")
+					{
+						$template = "problem-notasks.tex";
+					}
+					else
+					{
+						$template = "problem-tasks.tex";
+					}
+					print "% using template $template\n";
+					open(my $pfh, "Templates/$template") || die "no problem template $template";
 					while(<$pfh>)
 					{
 						while(/%%(\w+)%%/g)
@@ -135,7 +145,14 @@ while(<$tfh>)
 								# print tasks
 								for my $task (@plist)
 								{
-									print "\\task $task\n";
+									if($pmhash{"Columns"} eq "0")
+									{
+										print "% the task\n$task\n";
+									}
+									else
+									{
+										print "\\task $task\n";
+									}
 								}
 								$_ = "";
 							}
@@ -150,10 +167,11 @@ while(<$tfh>)
 								{
 									s/%%$token%%/$pmhash{$token}/;
 								}
-								if($token eq "Description" && $nodesc == 1)
+								if($token eq "Description" && $nodesc == 1 && $pmhash{"Columns"} ne "0")
 								{
 									$_ = "\$ \$\n";
 								}
+								# else { $_ = ""; }
 							}
 						}
 						print;

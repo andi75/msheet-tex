@@ -1,0 +1,7 @@
+Description= 
+Description_en= 
+Columns=2
+\[ \frac{4a + 3}{4a + 4} \]
+\[ \frac{-3uv + v^2}{u^2 + uv + 2v^2} \]
+\[ \frac{2p^2}{1 - p^2} \]
+\[ \frac{2w + 1}{2w^2 - 2} \]

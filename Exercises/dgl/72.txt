@@ -1,0 +1,4 @@
+Description=Gewisse Wachstumsvorgänge gehorchen der Differentialgleichung $f'(t) = a(b - f(t))$, wo $t$ die Zeit und $f(t)$ die Grösse des wachsenden Objekts beschreibt; $a$ und $b$ sind positive Konstanten.
+Columns=1
+Löse diese Differentialgleichung.
+Bestimme $\displaystyle{\lim_{t \to \infty} f(t)}$.
