@@ -1,0 +1,5 @@
+Description= 
+Description_en= 
+Columns=1
+\[ \frac { - 2 } { x ^ { 2 } + 1 } \]
+\[ \frac { a + 1 } { x } \]

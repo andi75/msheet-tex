@@ -1,0 +1,4 @@
+Description= 
+Description_en= 
+Columns=1
+\[ \frac { 6 a ( a + 1 ) } { a - 3 } \]
