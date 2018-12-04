@@ -1,0 +1,14 @@
+Description=Vereinfache:
+Description_en=Simplify:
+Columns=3
+\[ \sqrt{ 8 } \]
+\[ \sqrt{ 20 } \]
+\[ \sqrt{ 50 } \]
+\[ \sqrt{ 72 } \]
+\[ \sqrt{ 125 } \]
+\[ \sqrt{ 147 } \]
+\[ \sqrt{ 1000 } \]
+\[ \sqrt{ 50000 } \]
+\[ \sqrt{ 120000 } \]
+\[ \sqrt{ \frac{1}{98} } \]
+\[ \sqrt{ \frac{20}{63} } \]
