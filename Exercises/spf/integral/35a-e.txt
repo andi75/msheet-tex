@@ -1,0 +1,7 @@
+Description=Bestimme mit Hilfe von partieller Integration:
+Columns=2
+\[ \int{x \cdot sin(x) } dx \]
+\[ \int{x^2 \cdot sin(x) } dx \]
+\[ \int{ sin(x)cos(x) } dx \]
+\[ \int{ cos^2(x) } dx \]
+\[ \int{e^{2x} \cdot sin(x) } dx \]

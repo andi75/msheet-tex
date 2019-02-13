@@ -1,0 +1,6 @@
+Description=Bestimme mit Hilfe der Substitutionsmethode:
+Columns=2
+\[ \int{x \cdot (x^2 + 1)^3 } dx \]
+\[ \int{ \frac{ 5x } { x^2 + 1 } } dx \]
+\[ \int{2x \cdot e^{x^2} } dx \]
+\[ \int{ \frac{ e^x } { e^x - a } } dx \]
