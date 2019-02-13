@@ -1,0 +1,9 @@
+Description=Vereinfache:
+Description_en=Simplify:
+Columns=3
+\[ \sqrt { 3 } \cdot \sqrt { 6 } \]
+\[ \sqrt { 3 } \cdot \sqrt { 7 } \cdot \sqrt { 14 } \]
+\[ \sqrt { 14 } \cdot \sqrt { 35 } \]
+\[ \sqrt { 5 } + \sqrt { 20 } \]
+\[ \sqrt { 12 } - \sqrt { 27 } \]
+\[ \sqrt { 32 } + \sqrt { 98 } \]

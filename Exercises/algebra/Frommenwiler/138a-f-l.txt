@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=3
+\[ \frac{ \sqrt{2} } { 2 } \]
+\[ \frac{ \sqrt{6} } { 3 } \]
+\[ \frac{ \sqrt{5} } { 10 } \]
+\[ \frac{ \sqrt{30} } { 10 } \]
+\[ \frac{ 3 \sqrt{2} } { 4 } \]
+\[ \frac{ \sqrt{30} - \sqrt{10} } { 5 } \]

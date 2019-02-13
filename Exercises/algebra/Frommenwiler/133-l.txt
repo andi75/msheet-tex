@@ -1,0 +1,14 @@
+Description= 
+Description-en= 
+Columns=3
+\[ 2 \sqrt{2} \]
+\[ 2 \sqrt{5} \]
+\[ 5 \sqrt{2} \]
+\[ 6 \sqrt{2} \]
+\[ 5 \sqrt{5} \]
+\[ 7 \sqrt{3} \]
+\[ 10 \sqrt{10} \]
+\[ 100 \sqrt{5} \]
+\[ 200 \sqrt{3} \]
+\[ \frac{ \sqrt{2} }{ 14 } \]
+\[ \frac{ 2 \sqrt{35} } { 21 } \]

@@ -1,0 +1,15 @@
+Description= 
+Description-en= 
+Columns=3
+\[ 21 \]
+\[ 3 \sqrt{3} \]
+\[ 5 \sqrt{5} \]
+\[ 9 \sqrt{3} \]
+\[ 8 \]
+\[ 3 - \sqrt{3} \]
+\[ 15 \]
+\[ \sqrt{2} + \sqrt{3} \]
+# \[ \sqrt{14} \]
+\[ 3 \]
+\[ 4 \]
+# \[ \frac{8}{9} \]
