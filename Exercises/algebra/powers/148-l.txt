@@ -1,0 +1,17 @@
+Description= 
+Description-en= 
+Columns=3
+$ 2 $
+$ 7 $
+$ 32 $
+$ 100 $
+$ 3 $
+$ 16 $
+$ 8 $
+$ 27 $
+$ \cfrac{1}{25} $
+$ \cfrac{1}{16} $
+$ \cfrac{1}{25} $
+$ \cfrac{1}{10} $
+$ \cfrac{1}{32} $
+$ \cfrac{4}{9} $

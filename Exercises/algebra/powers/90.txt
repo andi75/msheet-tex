@@ -1,0 +1,21 @@
+Description=Berechne ohne Rechner:
+Description-en=Solve without a calculator:
+Columns=3
+$2^4 \cdot 5^4$
+$5^5 \cdot 5^7 : 5^{10}$
+$\left(2\sqrt{3}\right)^4$
+$\left(\cfrac{ \sqrt{3} }{2} \right)^6$
+$\left( \sqrt{3} + 1 \right)^4 \left( \sqrt{3} - 1 \right)^4$
+$\left( 3^{-3} \cdot 3^{5} \right) : \left( 3^2 \cdot 3^{-4} \right)$
+$\cfrac{8^9}{0.8^9}$
+$27 \cdot 3^{-6}$
+$\left( \cfrac{3}{4} \right) ^{-4} : \left( \cfrac{9}{8} \right) ^{-4}$
+$\cfrac{ 2^3 \cdot 3^5 }{ 6^4 }$
+$\cfrac{ 2^3 \cdot 15^3 }{ 6^3 }$
+$\left( \sqrt{5} - \sqrt{2} \right)^5 \left( \sqrt{2} + \sqrt{5} \right) ^5$
+$\left( 3^3 \right) ^5 : \left( 3^2 \right) ^6$
+$\cfrac{ 9^7 }{ 27^3 }$
+$\left( \cfrac{ \sqrt{2} }{ 3 \sqrt{3} } \right) ^{-4}$
+$(-8)^5 \cdot \left(2^{-4}\right)^4$
+$\cfrac{ (-4)^2 \cdot 2^4 }{ 8^2 }$
+$\cfrac{ 4^{20} \cdot 25^{21} }{ 10^{41} }$

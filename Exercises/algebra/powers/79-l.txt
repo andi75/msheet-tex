@@ -1,0 +1,16 @@
+Description= 
+Description-en= 
+Columns=3
+$ -8 $
+$ -8 $
+$ 8 $
+$ 16 $
+$ -16 $
+$ -16 $
+$ \cfrac{1}{4} $
+$ \cfrac{1}{4} $
+$ - \cfrac{1}{4} $
+$ \cfrac{1}{8} $
+$ - \cfrac{1}{8} $
+$ - \cfrac{1}{8} $
+$ \cfrac{5}{9} $

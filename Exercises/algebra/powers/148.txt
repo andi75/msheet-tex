@@ -1,0 +1,17 @@
+Description=Berechne ohne Rechner:
+Description-en=Solve without a calculator:
+Columns=3
+$\sqrt[4]{16}$
+$\sqrt[10]{y^{10}}$
+$\sqrt{4^5}$
+$\sqrt[3]{1000000}$
+$\sqrt[6]{9^3}$
+$\sqrt[3]{8^4}$
+$\sqrt[10]{32^6}$
+$\sqrt[4]{81^3}$
+$\sqrt[3]{0.008^2}$
+$\sqrt[5]{32^{-4}}$
+$\sqrt[3]{125^{-2}}$
+$\sqrt{100^{-1}}$
+$\sqrt[6]{\cfrac{1}{64^5}}$
+$\sqrt[3]{\left(\cfrac{135}{40}\right)^{-2}}$

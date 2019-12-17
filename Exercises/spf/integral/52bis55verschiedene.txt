@@ -1,0 +1,9 @@
+Description=Bestimme das Integral
+Columns=2
+\[ \int{ \frac{ 3x } { x^2 + 1 } } dx \]
+\[ \int{x \cdot ln (x) } dx \]
+\[ \int{ \frac{ 2x } { (x^2 + 1)^2 } } dx \]
+\[ \int{ \frac{ 4 ln (x) } { x } } dx \]
+\[ \int{ \frac{ x + 1 } { x - 1 } } dx \]
+\[ \int{ \frac{ 1 } { x^2 - 1 } } dx \]
+\[ \int{ \frac{ 13 - x } { x^2 - x - 6 } } dx \]

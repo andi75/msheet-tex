@@ -1,0 +1,11 @@
+Description=Berechne ohne Rechner:
+Description-en=Solve without a calculator:
+Columns=3
+$ log_{5}{125} $
+$ log_{7}{7} $
+$ log_{2}{\sqrt{2}} $
+$ log_{4}{2} $
+$ log_{6}{1} $
+$ log_{3}{\left(\cfrac{1}{81}\right)} $
+$ log_{n}{\left(\cfrac{1}{n}\right)} $
+$ log_{a}{\sqrt[n]{a}} $

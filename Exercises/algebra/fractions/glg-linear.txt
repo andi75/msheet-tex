@@ -1,0 +1,7 @@
+Description=Bestimme die Lösungsmenge
+Description_en=Find all solutions
+Columns=2
+\[ \frac{x}{2x - 12} + \frac{1}{2} = \frac{3}{x - 6} \]
+\[ \frac{x - 3}{x - 2} - \frac{x}{10 - 5x} = \frac{4}{5} \]
+\[ \frac{x + 3}{x - 2} - \frac{x + 2}{x - 3} = \frac{x - 5}{x^2 - 5x + 6} \]
+\[ \frac{5 + x}{5 - x} - \frac{5 - x}{5 + x} = \frac{5x - 5}{x^2 - 25} \]

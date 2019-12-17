@@ -1,0 +1,17 @@
+Description=Berechne ohne Rechner:
+Description-en=Solve without a calculator:
+Columns=1
+$\sqrt[4]{16} = $ \vspace{.4cm}
+$\sqrt[10]{y^{10}} = $ \vspace{.4cm}
+$\sqrt{4^5} = $  \vspace{.4cm}
+$\sqrt[3]{1000000} = $ \vspace{.4cm}
+$\sqrt[6]{9^3} = $ \vspace{.4cm}
+$\sqrt[3]{8^4} = $ \vspace{.4cm}
+$\sqrt[10]{32^6} = $ \vspace{.4cm}
+$\sqrt[4]{81^3} = $ \vspace{.4cm}
+$\sqrt[3]{0.008^2} = $ \vspace{.4cm}
+$\sqrt[5]{32^{-4}} = $ \vspace{.4cm}
+$\sqrt[3]{125^{-2}} = $ \vspace{.4cm}
+$\sqrt{100^{-1}} = $ \vspace{.4cm}
+$\sqrt[6]{\cfrac{1}{64^5}} = $ \vspace{.4cm}
+$\sqrt[3]{\left(\cfrac{135}{40}\right)^{-2}} = $ \vspace{.4cm}

@@ -1,0 +1,13 @@
+Description=Schreibe als eine einzige Potenz:
+Description-en=Write as a single power:
+Columns=3
+$ (a+b)^3 \cdot (a-b)^3 $
+$ \left( \cfrac{a}{b} \right)^5 : \left( \cfrac{b}{2} \right)^5 $
+$ \left( -a^5 \right) \cdot \left( -a^6 \right) $
+$ \left( -a \right)^4 \cdot \left( -b^4 \right) $
+$ (a - 1)^{10} : (1 - a)^{10} $
+$ (-x)^3 \left(-x^4\right) $
+$ \left( \cfrac{x}{y} \right)^7 : \left( - \cfrac{x}{y} \right)^4 $
+$ (-a)^4 \cdot \left(-a^6 \right) $
+$ (5a)^{10} : \left( 5a^{10} \right) $
+$ (ab - ac)^{10} : \left(bc - c^2\right)^{10} $

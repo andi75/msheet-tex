@@ -1,0 +1,13 @@
+Description= 
+Description-en= 
+Columns=3
+$ (a^2 - b^2)^3 $
+$ \left( \cfrac{2a}{b^2} \right)^5 $
+$ a^11 $
+$ - (ab)^4 $
+$ 1 $
+$ x^7 $
+$ \left( \cfrac{x}{y} \right)^3 $
+$ -a^{10} $
+$ 5^9 $
+$ \left( \cfrac{a}{c} \right)^{10} $

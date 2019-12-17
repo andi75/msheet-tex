@@ -1,0 +1,11 @@
+Description=Berechne mit dem Rechner auf 4 significante Ziffern:
+Description-en=Use a calculator to give the result with 4 significant digits:
+Columns=2
+$\sqrt[3]{5} = $
+$\sqrt[5]{3} = $ \vspace{.3cm}
+$\sqrt[10]{0.1} = $
+$\sqrt[6]{\cfrac{2}{3}} = $ \vspace{.3cm}
+$\sqrt[7]{9^9} = $
+$\sqrt[10]{10} = $ \vspace{.3cm}
+$\sqrt[100]{10} = $
+$\sqrt[1000]{10} = $

@@ -1,0 +1,5 @@
+Description=Bestimme die Lösungsmenge
+Description_en=Find all solutions
+Columns=2
+\[ \mathbb{L} = \left\{ -2 - \sqrt(2), -2 + \sqrt(2) \right\} \]
+\[ \mathbb{L} = \left\{ \frac{1}{2}, 6 \right\} \]

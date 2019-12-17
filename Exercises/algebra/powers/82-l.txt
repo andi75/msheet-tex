@@ -1,0 +1,11 @@
+Description= 
+Description-en= 
+Columns=3
+$ 16 $
+$ 125 $
+$ - \cfrac{10000}{81} $
+$ -512 $
+$ - \cfrac{64}{27} $
+$ \cfrac{16}{81} $
+$ \cfrac{6}{5} $
+$ \cfrac{64}{25} $

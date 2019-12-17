@@ -1,0 +1,15 @@
+Description=Schreibe als eine einzige Potenz:
+Description-en=Write as a single power:
+Columns=3
+$ 5 \cdot 5^4 \cdot 5^{-2} $
+$ 3^4 \cdot 4^4 : 5^4 $
+$ (-2)^3 \cdot (-3)^3 \cdot (-4)^0 $
+$ (-8)^4 : \left(-8^{10}\right) $
+$ (-49) \cdot 7^{10} : 7^4 $
+$ (-10)^{20} : \left(-2^{20}\right) $
+$ 3^5 \cdot 5^{-5} $
+$ 2^{10} \cdot 3^{-10} \cdot 5^{10} $
+$ \left(-3^2\right)(-3)^3 : 3^{-2} $
+$ 4^{10} \cdot \left( \cfrac{1}{2} \right)^{10} \cdot \left( \cfrac{1}{3} \right)^{-10} $
+$ 2^{10} + 2^{10} $
+$ 3^{20} + 3^{20} + 3^{20} $

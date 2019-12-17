@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=3
+$ a^{12} $
+$ -a^{12} $
+$ x^{12} $
+$ -u^6 $
+$ -1 $
+$ b^{-12} $

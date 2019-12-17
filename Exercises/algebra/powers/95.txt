@@ -1,0 +1,9 @@
+Description=Schreibe als eine einzige Potenz:
+Description-en=Write as a single power:
+Columns=3
+$ \left(-a^3\right)^4 $
+$ \left(-a^4\right)^3 $
+$ \left( - \left(x^{-1} \right)^{-2} \right)^6 $
+$ \left( -u^{-2} \right)^{-3} $
+$ -\left( y^{-10} \right)^0 $
+$ \left( - (-b)^3 \right)^{-4} $
