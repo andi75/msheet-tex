@@ -1,6 +1,6 @@
 TEX = pdflatex -interaction nonstopmode
 BIB = bibtex
-GS = gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite 
+GS = gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sPAPERSIZE=a4
 # force german
 # DAT2TEX = perl mktex.pl --lang=de
 # force english
