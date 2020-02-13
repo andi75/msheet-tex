@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+# 2018-BMC 2019-03-12, Pruefung, Aufgabe 5
+(2 Punkte) Ein Auto hat nach 6 Jahren noch einen Drittel des Neuwerts. Wie viel wurde jedes Jahr abgeschrieben?

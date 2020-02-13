@@ -1,0 +1,11 @@
+Description= 
+Description-en= 
+Columns=3
+$ x = \cfrac{1}{9} $
+$ x = 32 $
+# $ x = e^{2} $
+$ x = 3 $
+$ x = \cfrac{1}{1000} $
+$ x = 4 $
+$ x = 24 $
+$ x = 4 $ und $ x = -4 $

@@ -1,0 +1,11 @@
+Description=Berechne x:
+Description-en=Find x:
+Columns=3
+$ log_{3}{x} = -2 $
+$ log_{2}{x} = 5 $
+# $ log_{e}{x} = 2 $
+$ log_{9}{x} = 0.5 $
+$ log_{10}{x} = -3 $
+$ log_{8}{x} = \cfrac{2}{3} $
+$ log_{5}{(x + 1)} = 2 $
+$ log_{2}{x^2} = 4 $

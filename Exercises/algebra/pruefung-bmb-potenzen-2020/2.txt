@@ -1,0 +1,7 @@
+Description=(3 Punkte) Schreibe ohne Bruchterme oder Dezimalzahlen und als eine einzige Potenz
+Description-en=(3 points) Write without fractions or decimal numbers and as a single power
+Columns=3
+$ 0.0001 $
+# $ \cfrac{1}{125} $
+$ -0.04 $
+$ -\cfrac{1}{243} $

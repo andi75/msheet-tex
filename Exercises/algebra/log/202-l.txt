@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=2
+$ \log 60 $
+$ \log 5 $
+$ \log \cfrac{2}{5} $
+$ \log 50 $
+$ \log 2 $
+$ \log \left( \cfrac{9 \sqrt[3]{4} }{ 16 } \right) $

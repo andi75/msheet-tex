@@ -1,0 +1,9 @@
+Description=(6 Punkte) Vereinfache so weit wie möglich:
+Description-en=(6 points) Simplify:
+Columns=3
+# $ \left( -a^5 \right) ^5 $
+$ (-2a)^4 : (-4a^4) $
+# $ \left(2a^2b\right)^2 \cdot \left( \cfrac{1}{4}ab^2 \right)^3 $
+# $ \left( \sqrt{a} + \sqrt{b} \right)^4 \cdot \left( \sqrt{a} - \sqrt{b} \right) ^4 $
+$ \left( - \left(2x^{-1} \right) ^2 \right) ^{-2} $
+$ \left( \cfrac{ u^2 v^{-2} }{ u^3 v^{-5} } \right) ^{-3} \cdot \left( \cfrac{ v^{-3} }{ uv^5 } \right) ^{-2} $

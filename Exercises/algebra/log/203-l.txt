@@ -1,0 +1,12 @@
+Description= 
+Description-en= 
+Columns=2
+$ \log (3a) $
+$ 0 $
+$ \log x $
+$ \log \sqrt{u} $
+$ \log \left( \cfrac{ab}{c} \right) $
+$ \log \left( 2a^2 \right) $
+$ \log \left( \cfrac{2}{r} \right) $
+# $ \log \sqrt[n]{k-1} $
+$ \log \left( x^2 - 1 \right) $

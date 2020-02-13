@@ -1,0 +1,8 @@
+Description=Schreibe als Zahl oder Bruch ohne Potenzen:
+Description-en=(8 points) Write as a number or fraction without powers.
+Columns=2
+$ \sqrt[4]{9^2} $
+$ \sqrt[3]{100^6} $
+$ \sqrt[6]{27^4} $
+$ \sqrt[9]{0.125^3} $
+$ \sqrt[3]{\left( \cfrac{162}{48} \right)^{-2} } $

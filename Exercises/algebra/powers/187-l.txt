@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=3
+$ x = 4 $
+$ x = \cfrac{1}{2} $
+$ x = \cfrac{1}{5} $
+$ x = 16 $
+no solution
+$ x = 25$

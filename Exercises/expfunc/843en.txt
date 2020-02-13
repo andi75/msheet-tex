@@ -1,0 +1,7 @@
+Description= 
+Columns=0
+A car loses 18\% of its value every year.
+
+a) What percentage of its original value does it retain after five years?
+
+b) A car is valued at CHF 2400.-. What was it worth eight years ago?

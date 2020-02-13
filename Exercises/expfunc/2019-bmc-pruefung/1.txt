@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+# 2018-BMC 2019-03-12, Pruefung, Aufgabe 1
+(1 Punkt) Ein Pilz bedeckt eine Wand auf einer Fläche von $2.5cm^2$. Alle drei Tage verdreifacht sich seine Fläche. Wie gross ist die Fläche nach 30 Tagen?

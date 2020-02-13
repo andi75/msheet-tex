@@ -1,0 +1,9 @@
+Description=Schreibe als einen einzigen Logarithmus-Term:
+Description-en=Write as a single logarithm:
+Columns=2
+$ \log{ 5 } + \log{ 12 } $
+$ \log{ 20 } - \log{ 4 } $
+$ \log{ \left( \cfrac{2}{3} \right) } + \log{ \left( \cfrac{3}{4} \right) } + \log{ \left( \cfrac{4}{5} \right) } $
+$ 2 \log{ 5 } + \cfrac{1}{2} \log{ 4 } $
+$ \cfrac{1}{2} \log{ 16 } - \cfrac{1}{3} \log{ 8 } $
+$ 2 \log{ 3 } + \cfrac{1}{3} \log{ 4 } - 4 \log{ 2 } $

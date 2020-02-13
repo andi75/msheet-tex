@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+# 2020-BMB 2020-01-21, Pruefung, Aufgabe 6
+(2 Punkte) Eine Fräsmaschine für Metallteile wird für CHF 450‘000 angeschafft und jährlich zu einem bestimmten Prozentsatz abgeschrieben. Bestimme den Prozentsatz der Abschreibung so, dass der Buchungs-Wert der Anlage nach fünf Jahren nur noch CHF 150‘000 beträgt.

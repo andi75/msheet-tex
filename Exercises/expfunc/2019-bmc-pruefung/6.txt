@@ -1,0 +1,7 @@
+Description= 
+Columns=0
+# 2018-BMC 2019-03-12, Pruefung, Aufgabe 6
+(3 Punkte) Eine Bakterienkultur vervierfacht sich pro Stunde.
+
+a.	Um wie viel Prozent vermehren sie sich in 8 Minuten? \\
+b.	Wie viele Stunden und Minuten dauert es, bis sich die Bakterienzahl verhundertfacht hat?

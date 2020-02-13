@@ -1,0 +1,11 @@
+Description= 
+Description-en= 
+Columns=3
+$ 3 $
+$ 1 $
+$ \cfrac{1}{2} $
+$ \cfrac{1}{2} $
+$ 0 $
+$ -4 $
+$ -1 $
+$ \cfrac{1}{n} $

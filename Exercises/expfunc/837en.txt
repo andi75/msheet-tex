@@ -1,0 +1,3 @@
+Description= 
+Columns=0
+Six years ago, a city had 65600 inhabitants, today there are 82100. By what percentage does the city grow every year?

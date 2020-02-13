@@ -1,0 +1,7 @@
+Description=Schreibe als Zahl oder Bruch ohne Potenzen:
+Description-en=(6 points) Write as a number or fraction without powers.
+Columns=3
+$ 16 \cdot 2^{-7} $
+# $ \cfrac { 16^2 \cdot 10^3 \cdot 6^4 }{ 4^8 \cdot 75^2 } $
+$ \left( \cfrac{2}{3} \right) ^{-5} \cdot \left( \cfrac{4}{27} \right) ^{-3} $
+$ 9^{-2} \cdot \left( \cfrac{1}{3} \right) ^4 \cdot 27^4 $

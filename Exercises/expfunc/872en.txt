@@ -1,0 +1,7 @@
+Description= 
+Columns=0
+Tritium is a radiactive isotope of hydrogen. Its half-life is approximately
+12.35 years. It is created by solar radiation in the upper atmosphere and
+reaches the ground in the form of rainfall. At 68m below the surface, a sample
+of ice was taken from a glacier. It contained only 5\% of the
+usual amount of tritium found in fresh water. How old is the sample?

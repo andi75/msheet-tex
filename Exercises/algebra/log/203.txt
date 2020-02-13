@@ -1,0 +1,12 @@
+Description=Schreibe als einen einzigen Logarithmus-Term:
+Description-en=Write as a single logarithm:
+Columns=2
+$ \log { a } + \log { 3 } $
+$ \log { \left( \cfrac{a}{b} \right) } + \log { \left( \cfrac{b}{a} \right) } $
+$ \log { \left( x^2 \right ) } - \log { x } $
+$ \log { u } - \log { \sqrt{u} } $
+$ \log { a } + \log { b } - \log { c } $
+$ \log { 2 } + 2 \log { a } $
+$ \log { (2r) } - 2 \log { r } $
+# skipped 203 h)
+$ \log { (x - 1) } + \log { (x + 1) } $

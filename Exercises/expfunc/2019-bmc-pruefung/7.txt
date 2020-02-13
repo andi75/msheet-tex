@@ -1,0 +1,11 @@
+Description= 
+Columns=0
+# 2018-BMC 2019-03-12, Pruefung, Aufgabe 7
+(3 Punkte) Damit ein Barometer korrekte Druckwerte liefert, eicht man es mit zwei Luftdruckwerten auf verschiedenen Höhen: Auf Meereshöhe herrscht ein Druck von 1.013 bar und bei einer Messstation 876 m über Meer misst man noch einen Druck von 0.908 bar. 
+
+Mit dem geeichten Barometer kann nun – unter Zuhilfenahme weiterer Druckwerte – die Höhe eines Hochhauses bestimmt werden!
+
+Dazu kommen zwei Berechnungsmodelle in Frage: Entweder man nimmt eine exponentielle Druckabnahme an oder man geht von einer linearen (gleichmässigen) Druckabnahme aus.
+
+Beim Eingang des anderen Hochhauses – dessen Höhe nun bestimmt werden soll – werden nun 0.976 bar gemessen, auf dem Dach noch 0.957 bar.
+Berechne die Höhe dieses Hochhauses mit beiden Modellen.

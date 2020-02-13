@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+An investment grew from CHF 700'000.- to CHF 2'000'000. How long did it take,
+if the annual return was 4.5\%? 

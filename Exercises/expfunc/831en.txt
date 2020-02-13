@@ -1,0 +1,9 @@
+Description= 
+Columns=0
+A fungus grows on a basement's wall. Initially, it covers an area of $0.4m^{2}$. Find out how much is covered after year if the covered area ...
+
+a) ... doubles each month
+
+b) ... doubles every three months
+
+c) ... triples every four months

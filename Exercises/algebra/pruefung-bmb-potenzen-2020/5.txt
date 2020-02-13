@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+# 2020-BMB 2020-01-21, Pruefung, Aufgabe 5
+(2 Punkte) Ein Auto hat heute den Wert von CHF 7340.-. Wie hoch war der Anschaffungspreis vor 8 Jahren, wenn jährlich 20\% abgeschrieben wurden?

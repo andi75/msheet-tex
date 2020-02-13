@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+A PC with an initial value of CHF 2400.- is sold for CHF 700.- after three
+years and eight months. By what percentage does its value decrease every year?

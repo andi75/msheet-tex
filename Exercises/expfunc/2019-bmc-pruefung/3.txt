@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+# 2018-BMC 2019-03-12, Pruefung, Aufgabe 3
+(1 Punkt) Ein Auto hat heute den Wert von CHF 7340.-. Wie hoch war der Anschaffungspreis vor 8 Jahren, wenn jährlich 20\% abgeschrieben wurden?

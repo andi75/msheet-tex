@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+# 2020-BMB 2020-01-21, Pruefung, Aufgabe 7
+(3 Punkte) Ein Preis für ein Produkt verteuert sich jedes Jahr um 2\%. Im Rahmen der Werbeaktion "Preise wie vor 30 Jahren" wird der Preis vorübergehend auf  den ursprünglichen Wert gesenkt. Welcher Rabatt wird dabei auf den heutigen Preis gewährt?

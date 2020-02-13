@@ -1,0 +1,7 @@
+Description= 
+Columns=0
+In living organisms, $3.0 \cdot 10^{-8}\%$ of the carbon is found in the form
+of the radioactive isotope C-14. As soon as the organism dies, the amount
+of C-14 decreases by 50\% every 5736 years (the half-life of C-14). In the year
+1960, a sample from the mummy of an egyptian pharao was found to contain only
+$1.75 \cdot 10^{-8}\%$ of C-14. Which year did the pharao die?

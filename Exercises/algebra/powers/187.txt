@@ -1,0 +1,9 @@
+Description=Berechne x:
+Description-en=Find x:
+Columns=3
+$ log_{x}{64} = 3 $
+$ log_{x}{8} = -3 $
+$ log_{x}{ \cfrac{1}{25} } = 2 $
+$ log_{x}{16} = 1 $
+$ log_{x}{2} = 0 $
+$ log_{x}{5} = 0.5 $

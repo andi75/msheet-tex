@@ -2,7 +2,7 @@ Description=Berechne ohne Rechner:
 Description-en=Solve without a calculator:
 Columns=3
 $\sqrt[4]{16}$
-$\sqrt[10]{y^{10}}$
+$\sqrt[10]{7^{10}}$
 $\sqrt{4^5}$
 $\sqrt[3]{1000000}$
 $\sqrt[6]{9^3}$

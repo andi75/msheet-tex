@@ -1,0 +1,9 @@
+Description=Bestimme x und vereinfache:
+Description-en=(7 points) Find x and simplify:
+Columns=2
+$ x = log_{6}{216} $
+$ x = log_{100}{10^6} $
+$ x = log_{16}{128} $
+$ log_{x}{27} = 6 $
+# $ log_{x}{0.125} = - \cfrac{3}{2} $
+$ log_{8}{x} = \cfrac{ -2 }{ \phantom{-} 3} $

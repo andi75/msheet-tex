@@ -1,0 +1,12 @@
+Description= 
+Columns=0
+# 2020-BMB 2020-01-21, Pruefung, Aufgabe 9
+(7 Punkte) Stellt man einen erhitzten Körper (mit der Temperatur $T$) in einen
+Raum mit konstanter Temperatur $T_0$ , so nimmt die Temperatur-Differenz
+($T-T_0$) exponentiell mit der Zeit t ab.
+
+Eine heisse Tasse Kaffee mit der Temperatur von 78° steht in einem Zimmer, das 22° warm ist. Nach 3 Minuten ist der Kaffee noch 64° warm.
+
+a.	Wie warm ist der Kaffee nach ca. 24 Stunden? \\
+b.	Wie warm ist der Kaffee nach einer Minute? \\
+c.	Kaffee ist am besten trinkbar, wenn seine Temperatur zwischen 40° und 45° Grad liegt. Wie lange hat der Kaffeetrinker dafür Zeit?

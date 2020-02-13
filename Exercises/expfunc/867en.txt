@@ -1,0 +1,9 @@
+Description= 
+Columns=0
+A rubber ball is dropped from a height of 5m and bounces repeatedly. After each
+bounce, it only reaches 60\% of the previous height. After how many bounces
+does the ball only reach a height of less than
+
+a) 1cm
+
+b) 1mm

@@ -1,0 +1,9 @@
+Description= 
+Columns=0
+A forest is growing exponentially, if no logging is taking place. The amount of wood in a forest is currently estimated at $20000m^3$, and is growing at a
+yearly rate of 2.5\%
+
+a)  How much wood will there be in 10 years?
+
+b) How much wood was there 5 years ago?
+

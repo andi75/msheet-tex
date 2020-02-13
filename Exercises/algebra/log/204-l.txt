@@ -1,0 +1,13 @@
+Description= 
+Description-en= 
+Columns=2
+$ \log \left( a^5 \right) $
+$ \log \left( \cfrac{ac}{b} \right)^n $
+$ \log \left( \cfrac{ \sqrt{a} }{ \sqrt[3]{b^2} } \right) $
+$ \log(-1) $ is undefined
+$ \log \sqrt[3]{ \cfrac{m}{n} } $
+$ \log \sqrt{ \cfrac{x}{y^3} } $
+$ \log \left( \cfrac{ a^2 }{ (a-b)^3 } \right) $
+# missing h
+$ \log \left( \cfrac{m}{\sqrt{n}} \right) $
+# missing j

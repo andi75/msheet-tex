@@ -1,0 +1,7 @@
+Description= 
+Columns=0
+After milking, the number of germs in fresh, untreated milk is growing exponentially. After two hours $1 cm^3$ contains 8000 germs, after another hour, 27000 germs.
+
+a) How many germs are there a day after milking?
+
+b) How many germs were there 10min after milking?

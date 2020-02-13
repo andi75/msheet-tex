@@ -3,7 +3,7 @@ Description-en=
 Columns=3
 $ (a^2 - b^2)^3 $
 $ \left( \cfrac{2a}{b^2} \right)^5 $
-$ a^11 $
+$ a^{11} $
 $ - (ab)^4 $
 $ 1 $
 $ x^7 $

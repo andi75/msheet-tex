@@ -1,0 +1,7 @@
+Description= 
+Columns=0
+# 2018-BMC 2019-03-12, Pruefung, Aufgabe 4
+(3 Punkte) Nach 3 Jahren beträgt der Kontostand eines Sparkontos CHF 11'023.65, nach 8 Jahren sind es CHF 13'412.-.
+
+a.	Welchen Zins erhält der Sparer? \\
+b.	Wie viel war am Anfang auf dem Konto?

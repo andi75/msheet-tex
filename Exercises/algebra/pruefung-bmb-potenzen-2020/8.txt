@@ -1,0 +1,8 @@
+Description= 
+Columns=0
+# 2020-BMB 2020-01-21, Pruefung, Aufgabe 7
+(6 Punkte) Ein landwirtschaftlicher Betrieb hat am 1. Mai etwa 200 Hühner. Diese vermehren sich jede Woche um 20\%.
+
+a.	Mit wie vielen Hühnern ist am 1. Juni zu rechnen? \\
+b.	Nach wie vielen Tagen hat sich die Anzahl der Hühner auf über 1000 erhöht? \\
+c.	Ein Konkurrenzbetrieb hat seinen Hühnerbestand schon nach 43 Tagen von 200 auf über 1000 erhöht. Was ist dort das prozentuale Wachstum pro Woche?
