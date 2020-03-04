@@ -1,0 +1,8 @@
+Description= 
+Columns=0
+Bei einem grossen Familienfest muss über die Anzahl Stühle pro Tisch
+entschieden werden. Stellt man 6 Stühle an jeden Tisch, bleibt am
+Ende an einem Tisch ein Stuhl unbesetzt. Stellt man 8 Stühle an
+jeden Tisch, so braucht man zwei Tische weniger, und es bleiben
+insgesamt drei Stühle unbesetzt. Wie viele Gäste kommen zum Fest?
+(Hinweis: Bestimme zuerst die Anzahl der benötigten Tische).

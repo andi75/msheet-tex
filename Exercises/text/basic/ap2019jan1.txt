@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+Anna, Beat und Caspar sind zusammen 59 Jahre alt. Anne ist halb so
+alt wie Beat, und Caspar ist 7 Jahre älter als Anna. Wie alt sind
+die drei?

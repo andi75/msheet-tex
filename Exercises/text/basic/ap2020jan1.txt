@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+Zwei Paar Skier unterscheiden sich im Preis um CHF 195.-. Im
+Ausverkauf werden beide Paare um je CHF 210.- reduziert angeboten,
+so dass nun das eine Paar doppelt so teuer wie das andere ist.
+Welches waren die ursprünglichen Preise?

@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+Im Baumarkt werden Holzlatten zu Aktionspreisen verkauft. Für den
+gleichen Betrag, für den man vorher 10 Holzlatten bekam, erhält man
+nun 12 Holzlatten. Das heisst, eine Latte ist um 2.50 günstiger
+geworden. Wie viel kostete eine Latte vorher?
