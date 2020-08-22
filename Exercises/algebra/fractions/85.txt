@@ -1,5 +1,5 @@
 Description=Schreibe als einen Bruch und vereinfache:
-Description_en=Write as a single fraction and simplify:
+Description-en=Write as a single fraction and simplify:
 Columns=2
 \[ \frac{2x - 1}{x - 3} - \frac{2x(x + 2)}{x^2 - 9} - \frac{2}{3x} \]
 \[ \frac{3s}{(s - 2)^2} - \frac{2}{s} + \frac{s + 4}{2s - s^2} \]

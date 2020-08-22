@@ -1,5 +1,5 @@
 Description=Schreibe als einen Bruch und vereinfache:
-Description_en=Write as a single fraction and simplify:
+Description-en=Write as a single fraction and simplify:
 Columns=3
 \[ \frac{2a}{a + b} + 1 \]
 \[ 4 - \frac{u - v}{u + v} \]

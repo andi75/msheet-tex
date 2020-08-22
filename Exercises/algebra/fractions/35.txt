@@ -1,5 +1,5 @@
 Description=Kürze so weit wie möglich
-Description_en=Simplify:
+Description-en=Simplify:
 Columns=3
 \[ \frac{a - b}{b - a} \]
 \[ \frac{4mp - 20}{30 - 6mp} \]

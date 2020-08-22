@@ -1,5 +1,5 @@
 Description= 
-Description_en= 
+Description-en= 
 Columns=2
 \[ \frac{1}{60(x - 2y)} \]
 \[ \frac{b}{ac} \]

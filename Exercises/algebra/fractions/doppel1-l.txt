@@ -1,5 +1,5 @@
 Description= 
-Description_en= 
+Description-en= 
 Columns=2
 \[ \frac{4a + 3}{4a + 4} \]
 \[ \frac{-3uv + v^2}{u^2 + uv + 2v^2} \]

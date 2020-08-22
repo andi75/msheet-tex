@@ -1,5 +1,5 @@
-Description=Bestimme die Lösungsmenge
-Description_en=Find all solutions
+Description= 
+Description-en= 
 Columns=2
 \[ \mathbb{L} = \left\{ \right\} \]
 \[ \mathbb{L} = \left\{ \frac{7}{2} \right\} \]

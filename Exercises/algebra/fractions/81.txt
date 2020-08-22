@@ -1,5 +1,5 @@
 Description=Schreibe als einen Bruch und vereinfache:
-Description_en=Write as a single fraction and simplify:
+Description-en=Write as a single fraction and simplify:
 Columns=2
 \[ \frac{2n - 11}{3n - 5} - \frac{4n + 15}{n + 7} + 1 \]
 \[ \frac{2v + 3w}{2v + w} - \frac{2v - w}{2v} - \frac{2v + 3w}{w} \]

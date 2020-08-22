@@ -1,5 +1,5 @@
 Description= 
-Description_en= 
+Description-en= 
 Columns=3
 \[ \frac{ a + 6 }{ a - 2 } \]
 \[ \frac{ k }{ 3(n + 1) } \]

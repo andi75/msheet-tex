@@ -1,5 +1,5 @@
 Description=Kürze so weit wie möglich
-Description_en=Simplify:
+Description-en=Simplify:
 Columns=3
 \[ \frac{25 \vphantom{36x^2 y} }{5r+10 \vphantom{12x^2 y} } \]
 # \[ \frac{uw \vphantom{36x^2 y} }{uv+uw \vphantom{12x^2 y} } \]

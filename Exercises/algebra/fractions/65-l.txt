@@ -1,5 +1,5 @@
 Description= 
-Description_en= 
+Description-en= 
 Columns=3
 \[ \frac{a + 3}{3} \]
 \[ \frac{14rs - 9}{2s} \]

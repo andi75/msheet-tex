@@ -1,5 +1,5 @@
 Description=Vereinfache so weit wie möglich
-Description_en=Simplify:
+Description-en=Simplify:
 Columns=1
 \[ \cfrac { \phantom{-} 2 a + 1 - \cfrac { 1 } { 8 a + 4 } \phantom{-} } { 2 a + 1 + \cfrac { a } { 2 a + 1 } } \]
 \[ \cfrac { \phantom{-} \cfrac { u - v } { u + v } - \cfrac { u } { u - v } \phantom{-} } { \cfrac { u + v } { u - v } - \cfrac { v } { u + v } } \]

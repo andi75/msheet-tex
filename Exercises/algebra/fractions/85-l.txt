@@ -1,5 +1,5 @@
 Description= 
-Description_en= 
+Description-en= 
 Columns=2
 \[ \frac{x - 6}{3x(x + 3)} \]
 \[ \frac{6}{(s - 2)^2} \]

@@ -1,5 +1,5 @@
 Description=Schreibe als einen Bruch und vereinfache:
-Description_en=Write as a single fraction and simplify:
+Description-en=Write as a single fraction and simplify:
 Columns=3
 \[ \frac{a}{3} + 1 \]
 \[ 7r - \frac{9}{2s} \]

@@ -1,5 +1,5 @@
 Description=Schreibe als einen Bruch und vereinfache:
-Description_en=Write as a single fraction and simplify:
+Description-en=Write as a single fraction and simplify:
 Columns=2
 \[ \frac{5}{4x - 8y} - \frac{3}{10y - 5x} - \frac{11}{6x - 12y} \]
 \[ \frac{b - c}{a^2 + ac} - \frac{a - b}{ac + c^2} + \frac{a^2 + c^2}{a^2c + ac^2} \]

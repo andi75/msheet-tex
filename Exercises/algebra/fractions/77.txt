@@ -1,5 +1,5 @@
 Description=Schreibe als einen Bruch und vereinfache:
-Description_en=Write as a single fraction and simplify:
+Description-en=Write as a single fraction and simplify:
 Columns=2
 \[ \frac{a - b}{4a + 4b} + \frac{a + 4b}{6a + 6b} \]
 \[ \frac{t + 7}{3t - 6} - \frac{t + 4}{t^2 - 2t} \]

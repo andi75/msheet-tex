@@ -1,5 +1,5 @@
 Description=Kürze so weit wie möglich
-Description_en=Simplify:
+Description-en=Simplify:
 Columns=3
 \[ \frac{a^2 + 2a - 24}{a^2 - 6a + 8} \]
 \[ \frac{kn - 2k}{3n^2 - 3n - 6} \]

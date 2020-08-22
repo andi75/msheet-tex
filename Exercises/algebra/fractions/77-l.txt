@@ -1,5 +1,5 @@
 Description= 
-Description_en= 
+Description-en= 
 Columns=2
 \[ \frac{5}{12} \]
 \[ \frac{t + 6}{3t} \]

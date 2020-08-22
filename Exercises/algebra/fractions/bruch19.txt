@@ -1,5 +1,5 @@
 Description=Kürze so weit wie möglich
-Description_en=Simplify:
+Description-en=Simplify:
 Columns=3
 \[ \frac{7n+14}{7n-21} \]
 \[ \frac{2y+2}{5y+5} \]

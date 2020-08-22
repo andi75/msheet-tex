@@ -1,5 +1,5 @@
 Description=Schreibe als einen Bruch und vereinfache:
-Description_en=Write as a single fraction and simplify:
+Description-en=Write as a single fraction and simplify:
 Columns=2
 \[ \frac{c}{c + d} - \frac{c - d}{2(c + d)} \]
 \[ \frac{4}{z - 1} + \frac{z}{z^2 - 1} \]
