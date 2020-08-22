@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+(2 Punkte) Peter und Nina vergleichen ihr Einkommen, und stellen fest, dass
+Peter im Monat CHF 1‘120.- mehr verdient. Nina sagt: „Wenn ich
+anstatt zu 80% zu 100% arbeiten würde, dann würde ich CHF 400.-
+mehr verdienen als Du.“. Wie viel verdienen die beiden?

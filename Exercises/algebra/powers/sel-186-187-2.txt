@@ -1,0 +1,6 @@
+Description=Berechne x:
+Description-en=Find x:
+Columns=3
+$ log_{2}{x} = -3 $
+$ log_{x}{9} = -2 $
+$ log_{x}{\cfrac{1}{4}} = 4 $

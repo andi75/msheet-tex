@@ -1,0 +1,5 @@
+Description-en=Hint: Use a substitution, e.g. $ y = 10^x $
+Columns=1
+$ 10^x + 10^{2x} = 600 $
+$ 2^x + 3 = 4^x $
+$ 9^x - 2 \cdot 3^x - 11 = 0 $

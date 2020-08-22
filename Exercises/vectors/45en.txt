@@ -1,0 +1,4 @@
+Description= 
+Columns=1
+For which vectors is $\vec{a} \cdot \vec{b} = | \vec{a} | \cdot | \vec{b} |$
+For which vectors is $| \vec{a} \cdot \vec{b} | = | \vec{a} | \cdot | \vec{b} |$

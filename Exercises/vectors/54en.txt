@@ -1,0 +1,5 @@
+Description= 
+Columns=1
+For which vectors is $| \vec{a} \times \vec{b} | = | \vec{a} | \cdot | \vec{b} |$
+For which vectors is $\vec{a} \times \vec{b} = \vec{0}$ (all components are zero)
+Prove or refute: $\left(\vec{a} \times \vec{b} \right) \times \vec{c} = \vec{a} \times \left( \vec{b} \times \vec{c} \right)$ 

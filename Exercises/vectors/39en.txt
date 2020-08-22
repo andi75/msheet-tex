@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+$\vec{a} = \begin{pmatrix} x \\ 8 \\ \sqrt{11} \end{pmatrix}
+\vec{b} = \begin{pmatrix} 1 \\ 0 \\ 0 \end{pmatrix}$ \\
+\smallskip
+Find x so that $\vec{a}$ and $\vec{b}$ are at a 60° angle to each other.

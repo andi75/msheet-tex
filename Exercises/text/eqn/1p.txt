@@ -1,0 +1,10 @@
+Description= 
+Columns=0
+(4 Punkte) Armin und Bernd wohnen 34km voneinander entfernt. Am ersten Tag ist
+Armin mit 6km/h unterwegs, Bernd mit 8km/h. Sie starten zu
+unterschiedlichen Zeiten, und treffen sich um 12:00 Uhr zum
+Mittagessen. Am zweiten Tag ist Armin eine halbe Stunde später
+gestartet als am ersten, aber dafür mit 7km/h unterwegs. Beat ist
+eine Stunde früher gestartet als am ersten Tag, aber dafür nur mit
+5.5km/h unterwegs. Sie treffen sich trotzdem wieder um die gleiche
+Uhrzeit treffen. Wann sind die beiden am ersten Tag gestartet?

@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+$A = (3|5|5), B = (1|1|1), C = (5|3|-3)$ \\
+\smallskip
+ABCD forms the square base of a regular pyramid with altitude 9. Compute the coordinates for its tip S.

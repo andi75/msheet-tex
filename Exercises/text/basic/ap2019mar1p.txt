@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+(2 Punkte) Auf die Frage nach seinem Alter antwortete Linus: „Vor zwei Jahren
+war meine zwölf Jahre ältere Schwester genau doppelt so alt wie
+ich.“ Wie alt ist Linus heute?

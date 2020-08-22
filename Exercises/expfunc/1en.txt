@@ -1,0 +1,3 @@
+Description= 
+Columns=0
+Today, a car has a value of CHF 7340.-. What was the original price eight years ago, if it lost 20\% of its value each year?

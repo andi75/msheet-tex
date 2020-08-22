@@ -1,0 +1,5 @@
+Columns=0
+Given is the quadratic function
+$y = - \cfrac{1}{2}x^2 + \cfrac{3}{2} x + 1.$
+Find the intersections with the x- and y-axis and its vertex, and draw its
+graph (1 unit = 4 squares).

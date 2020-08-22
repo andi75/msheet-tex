@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+$A = (8|5|7), B = (5|5|4), M = (4|3|2)$ \\
+\smallskip
+For the parallelogram ABCD with midpoint M, calculate its area and its altitude for the base AB. Note:
+It is not necessary to calculate the coordinates for the points C and D.

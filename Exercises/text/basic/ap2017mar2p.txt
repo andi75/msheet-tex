@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+(3 Punkte) In der Oster-Aktion wird eine Packung mit 12 Eiern zum selben Preis
+angeboten wie sonst eine Packung mit 10 Eiern. Frau Meier rechnet
+aus, dass jetzt ein einzelnes Ei 7 Rappen billiger ist als sonst. Wie
+viel hat ein einzelnes Ei ursprünglich gekostet?

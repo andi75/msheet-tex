@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+$A = (7|6|3), B = (4|10|1), C = (-2|6|2), D = (1|2|4)$ \\
+\smallskip
+Prove that the points ABCD form a rectangle.

@@ -1,0 +1,5 @@
+Description=Vereinfache (ohne Rechner):
+Description-en=Simplify (without a calculator):
+Columns=3
+$\left( 3^{-4} \cdot 3^{2} \right)^2 : \left( 3^2 \cdot 3^{-4} \right)$
+$\cfrac{ 2^6 \cdot 15^3 }{ 6^3 }$

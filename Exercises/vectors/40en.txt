@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+$A = (8|1|-1), C = (2|4|-3)$ \\
+\smallskip
+ABC is an isosceles triangle with base c. B is on the y-axis. Find B and the angle $\alpha$.

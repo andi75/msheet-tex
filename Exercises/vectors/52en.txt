@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+$A = (6|8|3), B = (3|2|1), C = (9|0|-2)$ \\
+\smallskip
+The points ABC form the base of a regular three sided prisma with a volume of 343. Calculate the coordinates of the points DEF that form its roof.

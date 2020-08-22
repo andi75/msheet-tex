@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+$\vec{a} = \begin{pmatrix} x + 1 \\ 2 - 2x \\ 1 \end{pmatrix}, 
+\vec{b} = \begin{pmatrix} x \\ 4 \\ 2 \end{pmatrix}$ \\
+\smallskip
+Find x so that $\vec{a}$ and $\vec{b}$ are orthogonal (i.e. at right angles to each other).

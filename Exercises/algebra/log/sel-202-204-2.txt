@@ -1,0 +1,5 @@
+Description=Schreibe als einen einzigen Logarithmus-Term:
+Description-en=Write as a single logarithm:
+Columns=2
+$ \cfrac{2}{3} \log { x^6 } + \cfrac{3}{2} \log { x^4 } $
+$ \cfrac{1}{2} \log { x^3 } - 3 \log { \sqrt{x} } $

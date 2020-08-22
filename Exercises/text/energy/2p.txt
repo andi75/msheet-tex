@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+(3 Punkte) Ein Tank wird durch die Röhre A alleine in 2 Stunden gefüllt, durch
+Röhre B in 5 Stunden, und durch Röhre C in 7.5 Stunden. Wie lange dauert
+es insgesamt, den Tank zu füllen, wenn zuerst die Röhren B und C
+gleichzeitig geöffnet werden, und 20 Minuten später auch noch Röhre A?

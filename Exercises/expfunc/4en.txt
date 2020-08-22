@@ -1,0 +1,12 @@
+Description= 
+Columns=0
+On May 1, a farm has about 200 chickens. The amount of chickens
+increases by 20\% per week.
+
+a) How many chickens are on the farm on June 1?
+
+b) After how many days does the farm have more than 1000 chickens?
+
+c) A competing farm increased its number of chickens from 200 to
+over 1000 in only 43 days. By what percentage does the amount of
+chickens increase per week there?

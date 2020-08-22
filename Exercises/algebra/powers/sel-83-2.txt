@@ -1,0 +1,5 @@
+Description=Schreibe als Potenz with möglichst kleiner ganzzahliger Basis
+Description-en=Write as a power with the smallest integer base possible
+Columns=2
+$\cfrac{1}{625}$
+$0.0625$

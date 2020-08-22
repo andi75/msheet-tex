@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+Ein Ernte-Arbeiter füllt einen Sack Kartoffeln in 9 Minuten, ein
+anderer füllt den gleichen Sack in 12 Minuten. Wie schwer ist ein
+voller Sack, wenn der eine Arbeiter pro Minute 750g mehr erntet als
+der andere?

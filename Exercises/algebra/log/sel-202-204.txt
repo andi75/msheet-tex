@@ -1,0 +1,5 @@
+Description=Schreibe als einen einzigen Logarithmus-Term:
+Description-en=Write as a single logarithm:
+Columns=2
+$ 2 \log{ 5 } + \cfrac{1}{2} \log{ 4 } $
+$ \cfrac{1}{2} \log { a^5 } - \cfrac{3}{4} \log { a^2 } $

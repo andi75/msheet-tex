@@ -1,0 +1,9 @@
+Description= 
+Description-en= 
+Columns=2
+\[ \mathbb{L} = \left\{ \frac{3}{2} \right\} \]
+\[ \mathbb{L} = \left\{ 30 \right\} \]
+\[ \mathbb{L} = \left\{ 2 \right\} \]
+\[ \mathbb{L} = \left\{ 9 \right\} \]
+\[ \mathbb{L} = \left\{ -2 \right\} \]
+\[ \mathbb{L} = \left\{ 1 \right\} \]

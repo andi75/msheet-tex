@@ -1,0 +1,14 @@
+Description= 
+Columns=0
+(4 points) A barometer is calibrated by taking two measurements: One at sea
+level, reading 1.013bar, and one at a station 876m above sea level,
+reading 0.908bar.
+
+The calibrated barometer is now used to calculate the height of a
+high rise, again by taking two measurements: one on the ground
+floor, reading 0.976bar, and one on the roof, reading 0.957 bar.
+
+To calculate the height of the buildig two models can be used. One
+assumes a linear decrease in air pressure, and the other, more
+complicated model assumes an exponential decrease. Calculate the
+height of the building with both models.

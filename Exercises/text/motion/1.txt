@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+Für eine Strecke bestimmte braucht ein Schiff flussaufwärts
+fünf Stunden. Für die gleiche Strecke benötigt es flussabwärts zwei
+Stunden weniger lang. Ohne Strömung fährt das Schiff 20km/h schnell.
+Wie gross ist die Geschwindigkeit des Flusses?

@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+(2 points) A product's price increases each year by 2\%. For the promotion "prices like
+30 years ago", the price is temporarily lowered to its original price. What
+discount is given compared to today's price?

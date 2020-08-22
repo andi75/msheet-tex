@@ -1,0 +1,6 @@
+Description= 
+Columns=0
+$\vec{a} = \begin{pmatrix} x \\ 1 \\ 2 \end{pmatrix}, 
+\vec{b} = \begin{pmatrix} 2 \\ 0 \\ 1 \end{pmatrix}$ \\
+\smallskip
+Find x so that the parallelogram between $\vec{a}$ and $\vec{b}$ has an area of 3.

@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+$A = (2|3|-2), B = (6|-1|1)$ \\
+\smallskip
+For which points P on the x-Axis is $\angle{APB} = 90$°?

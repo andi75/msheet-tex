@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+$\vec{a} = \begin{pmatrix} x + 1 \\ 2 - 2x \\ 1 \end{pmatrix}, 
+\vec{b} = \begin{pmatrix} x \\ 4 \\ 2 \end{pmatrix}$ \\
+Berechne x so, dass $\vec{a}$ und $\vec{b}$ senkrecht aufeinander sehen.

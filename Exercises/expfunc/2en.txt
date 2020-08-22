@@ -1,0 +1,4 @@
+Description= 
+Columns=0
+A drilling machine for metal parts is bought for CHF 450'000. After five years,
+it is valued CHF 150'000. By what percentage does its value decrease every year?

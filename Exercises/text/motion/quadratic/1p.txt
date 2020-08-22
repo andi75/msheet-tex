@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+(3 Punkte) Für eine Strecke von 24km braucht ein Schiff flussabwärts 50 Minuten
+weniger lang als flussaufwärts. Ohne Strömung fährt das Schiff
+12km/h schnell. Wie gross ist die Geschwindigkeit des Flusses?

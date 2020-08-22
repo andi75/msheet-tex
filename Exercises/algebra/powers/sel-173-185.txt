@@ -1,0 +1,7 @@
+Description=Berechne:
+Description-en=Calculate:
+Columns=2
+$ log_{10}{0.1} $
+$ log_{10}{\sqrt[3]{10}} $
+$ log_{4}{2} $
+$ log_{3}{\left(\cfrac{1}{81}\right)} $

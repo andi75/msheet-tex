@@ -1,0 +1,5 @@
+Description= 
+Columns=0
+$A = (1|1|1), B = (7|4|3), C = (-7|0|5)$ \\
+\smallskip
+Calculate all the angles of the triangle ABC.
